@@ -4,5 +4,7 @@ I'm Jeffrey. A person who doesn't accept the educational programming training an
 
 This is my note of the journey to do something people want.
 
+>這是我學習程式的筆記，歡迎參考。筆記的目的僅僅方便我回頭看之前上過的課。比方說我忘記陣列是什麼，我就會回來找影片連結。
+
 
 
