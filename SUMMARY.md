@@ -9,4 +9,5 @@
 * [Side Project](side-project.md)
 * [Android](android.md)
 * [Intro to Computer ](intro-to-computer.md)
+* [Matlab](matlab.md)
 
