@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Create a Form!</title>
+  </head>
+  <body>
+    <!-- Create a form with <form> element and <input> element-->
+
+    <form class="" action="index.html" method="post">
+      <div class="">
+        <!-- Defines a one-line text input field and password. Type attribute is important because it can make the password become stars-->
+        <input type="text" name="name" value="" placeholder="Name"><br>
+        <input type="password" name="password" value="" placeholder="Password"><br>
+      </div>
+      <br>
+
+      <!-- Define radio buttons-->
+      <div class="">
+        Favorite Color?<br>
+        <input type="radio" name="color" value="red"> Red <br>
+        <input type="radio" name="color" value="blue"> Blue <br>
+        <input type="radio" name="color" value="green"> Green <br>
+        <input type="radio" name="color" value="yellow"> Yellow <br>
+      </div>
+      <br>
+
+      <!-- Define datalist using <list> attribute-->
+      <div class="">
+
+        <input type="text" name="country" list="countries" placeholder="Country">
+        <!-- Mapping <list> attribute with datalist id-->
+        <datalist id="countries">
+          <option value="USA">
+          <option value="Taiwan">
+          <option value="Japan">
+
+        </datalist>
+
+      </div>
+
+      <!-- -->
+
+    </form>
+
+  </body>
+</html>
