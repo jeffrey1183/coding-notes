@@ -12,4 +12,5 @@
 * [Android](android.md)
 * [Intro to Computer](intro-to-computer.md)
 * [iOS](ios-1.md)
+* [Matlab](matlab.md)
 
