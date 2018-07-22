@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [About Me](about-me.md)
 * [Glossary](glossary.md)
 * [CS 50](cs-50.md)
 * [Resource](resource.md)
