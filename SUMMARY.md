@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Glossary](glossary.md)
@@ -9,6 +9,6 @@
 * [Side Project](side-project.md)
 * [iOS](ios.md)
 * [Android](android.md)
-* [Intro to Computer ](intro-to-computer.md)
-* iOS
+* [Intro to Computer](intro-to-computer.md)
+* [iOS](ios-1.md)
 
