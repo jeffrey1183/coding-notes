@@ -20,9 +20,42 @@ Any C/C++ programming books
 課程講義：  
 [http://ocw.aca.ntu.edu.tw/ocw\_files/101S210/101S210\_CS01L01.pdf](http://ocw.aca.ntu.edu.tw/ocw_files/101S210/101S210_CS01L01.pdf)
 
-2018/7/20 看到:1:07:00
 
-[https://www.youtube.com/watch?v=EDYjPpn1OmE](https://www.youtube.com/watch?v=EDYjPpn1OmE)
 
 [http://ocw.aca.ntu.edu.tw/ntu-ocw/index.php/ocw/cou/101S210/1](http://ocw.aca.ntu.edu.tw/ntu-ocw/index.php/ocw/cou/101S210/1)
+
+
+
+## 筆記
+
+### [第一講](https://www.youtube.com/watch?v=EDYjPpn1OmE)
+
+檔案存在硬碟的哪裡 取決於你的作業系統\(e.g. Windows 的 NEFS, FNT 32, NXFAT, Linux 上的 extension, extension 4, Razer FX\)。檔案會砍了又新增，很難連續存，這就跟硬碟重組有關。但一直重組會影響硬碟壽命。
+
+Buffer 介紹
+
+* 1:10:38，細節要修計算機結構
+* 中文翻成緩衝區
+
+
+
+怎麼用 0 和 1 表示世界上的所有東西，表示文字、數字、影像\(顏色也是數字來記\)
+
+組成文字，最常見組成編碼，ASCII
+
+2 的 n 次方要很熟，到 2的 10 次方
+
+向量圖是記座標
+
+### 第二講
+
+[https://www.youtube.com/watch?v=0sNoGFvfmyg](https://www.youtube.com/watch?v=0sNoGFvfmyg)
+
+
+
+
+
+
+
+
 
