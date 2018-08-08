@@ -13,4 +13,5 @@
 * [Intro to Computer](intro-to-computer.md)
 * [MATLAB](matlab.md)
 * [freeCodeCamp](freecodecamp.md)
+* [Experiencing Music Technology](experiencing-music-technology.md)
 
