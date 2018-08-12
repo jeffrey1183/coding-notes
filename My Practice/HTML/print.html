@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <style>
+      /* This style I only want to apply when it's being printed*/
+      @media print {
+        .screen-only{
+          /* The dot is a way of selecting everything with a particular class name. Here is taking anything whose class is screen-only*/
+            display: none;
+          /* display property is none, make it not visible*/
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <p>This is a paragraph</p>
+    <p>This is another paragraph</p>
+    <p class="screen-only">This paragraph won't appear when you print this page</p>
+
+  </body>
+</html>
