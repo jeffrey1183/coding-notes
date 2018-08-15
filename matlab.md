@@ -8,9 +8,26 @@
 
 ## Record and Play Audio
 
-[document](https://www.mathworks.com/help/matlab/import_export/record-and-play-audio.html)
+[document](https://www.mathworks.com/help/matlab/import_export/record-and-play-audio.html)document 就可以學很多東西
 
-document 就可以學很多東西
+看到 
+
+```text
+y = getaudiodata(recObj);
+```
+
+步驟
+
+* 創建一個 object
+* 印出文字，開始錄音
+  * [display method](https://www.mathworks.com/help/matlab/ref/disp.html)
+  * [Record audio](https://www.mathworks.com/help/matlab/ref/audiorecorder.recordblocking.html)
+
+重要知識
+
+* [numeric types, double-precision array ](https://www.mathworks.com/help/matlab/numeric-types.html)
+
+
 
 ## Signal Processing with MATLAB
 
