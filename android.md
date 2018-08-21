@@ -2,7 +2,7 @@
 
 Android 錄音 App 實作，很讚的文章，但問題是看不懂 Java 語法：[https://medium.com/@ssaurel/create-an-audio-recorder-for-android-94dc7874f3d](https://medium.com/@ssaurel/create-an-audio-recorder-for-android-94dc7874f3d)
 
-問題就出現在：Recording and Playing Sounds 那一段程式看不懂，要看懂就要從程式語法 Java 來：[https://classroom.udacity.com/courses/ud282/lessons/8193672240/concepts/82465288750923](https://classroom.udacity.com/courses/ud282/lessons/8193672240/concepts/82465288750923)
+問題就出現在：Recording and Playing Sounds 那一段程式看不懂，要看懂就要從程式語法 Java 來：我想從閱讀 [Java tutorial 開始](https://docs.oracle.com/javase/tutorial/getStarted/intro/definition.html)，不想看 Udacity
 
 Android 筆記複習一下：[https://docs.google.com/document/d/1nkWKPKk5CWV2oFbOL5oewDKMX0rz9lCMmslYgQJ47Ms/edit](https://docs.google.com/document/d/1nkWKPKk5CWV2oFbOL5oewDKMX0rz9lCMmslYgQJ47Ms/edit)
 
