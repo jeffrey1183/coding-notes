@@ -51,6 +51,16 @@ Buffer 介紹
 
 [https://www.youtube.com/watch?v=0sNoGFvfmyg](https://www.youtube.com/watch?v=0sNoGFvfmyg)
 
+聲音的取樣
+
+MIDI
+
+* 買音源其實就是為了 MIDI 放出來的聲音很好
+
+Two's complement Encoding
+
+看到 25:11
+
 
 
 
