@@ -8,9 +8,15 @@
 
 ## Record and Play Audio
 
-[document](https://www.mathworks.com/help/matlab/import_export/record-and-play-audio.html)document 就可以學很多東西
+[document](https://www.mathworks.com/help/matlab/import_export/record-and-play-audio.html) 就可以學很多東西
 
-看到 
+
+
+看不懂語法?? 看[物件導向的](https://www.mathworks.com/discovery/object-oriented-programming.html)下面還有一篇
+
+[基本教學](https://www.mathworks.com/help/matlab/learn_matlab/matrices-and-arrays.html)
+
+看到 [Metrics 和 Array](https://www.mathworks.com/help/matlab/learn_matlab/matrices-and-arrays.html)
 
 ```text
 y = getaudiodata(recObj);
@@ -26,6 +32,12 @@ y = getaudiodata(recObj);
 重要知識
 
 * [numeric types, double-precision array ](https://www.mathworks.com/help/matlab/numeric-types.html)
+
+
+
+## 推薦教學
+
+[官方 tutorial](https://www.mathworks.com/help/matlab/learn_matlab/desktop.html) ，我覺得比 Coursera 清楚明瞭
 
 
 
@@ -49,6 +61,10 @@ Adding a semicolon to the end of a command will suppress the output, though the 
 按上可以叫出之前的 command
 
 When you enter just a variable name at the command prompt, MATLAB returns the current value of that variable.
+
+## 語音辨識
+
+[https://www.mathworks.com/help/nnet/examples/deep-learning-speech-recognition.html?s\_eid=PSM\_ml](https://www.mathworks.com/help/nnet/examples/deep-learning-speech-recognition.html?s_eid=PSM_ml)
 
 ## Deep Learning Matlab Onramp
 
