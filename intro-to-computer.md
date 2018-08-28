@@ -65,7 +65,15 @@ Two's complement Encoding
 
 
 
+## 電獺少女
 
+連結：[https://www.facebook.com/aottergirls/videos/295341041249750/?comment\_id=295382194578968&notif\_id=1535462885784093&notif\_t=video\_reply](https://www.facebook.com/aottergirls/videos/295341041249750/?comment_id=295382194578968&notif_id=1535462885784093&notif_t=video_reply)
 
+到 1:05:07
 
+要選 8 GB 以上的 RAM，Chrome, Youtube 那些開一開系統的 4 GB RAM 就用完了。
+
+主流款在 3萬 5 上下
+
+電競和設計
 
