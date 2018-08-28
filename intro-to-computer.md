@@ -69,11 +69,19 @@ Two's complement Encoding
 
 連結：[https://www.facebook.com/aottergirls/videos/295341041249750/?comment\_id=295382194578968&notif\_id=1535462885784093&notif\_t=video\_reply](https://www.facebook.com/aottergirls/videos/295341041249750/?comment_id=295382194578968&notif_id=1535462885784093&notif_t=video_reply)
 
-到 1:05:07
+到 58:43
 
 要選 8 GB 以上的 RAM，Chrome, Youtube 那些開一開系統的 4 GB RAM 就用完了。
 
 主流款在 3萬 5 上下
 
 電競和設計
+
+14吋尺寸，窄邊框
+
+選購重點：選8代 CPU，快出第9代 改了 bug
+
+![](.gitbook/assets/dian-ta-1.png)
+
+不是看 Core i5 或 Core i7 來分，主要是看後面的數字，8開頭就是第 8 代。很多筆電搭載 Core i5-8250U 都做的很輕薄，Core i7 7700HQ 都做在厚重的筆電上，所以你可以用一個輕薄來跑贏上個世代的筆電。尤其 i5 8250U 有些廠商甚至不到 2萬就買得到。
 
