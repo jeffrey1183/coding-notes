@@ -56,7 +56,9 @@ simulator 會預設出現 TV out，[可以把它關掉](https://stackoverflow.co
 
 
 
-看到 MVC：[https://classroom.udacity.com/courses/ud585/lessons/6996461702/concepts/69986025140923](https://classroom.udacity.com/courses/ud585/lessons/6994652511/concepts/74397885840923)
+看到 Lesson2：
+
+[https://classroom.udacity.com/courses/ud585/lessons/6996461702/concepts/69986025130923](https://classroom.udacity.com/courses/ud585/lessons/6996461702/concepts/69986025130923)
 
 Medium 筆記：[https://medium.com/@jeffreywang1183/ios-app-實作-pitch-perfect-音樂-4b85c6af35ea](https://medium.com/@jeffreywang1183/ios-app-實作-pitch-perfect-音樂-4b85c6af35ea)
 
@@ -70,8 +72,12 @@ Meeting transfer
 
 * [document outline ](https://www.youtube.com/watch?v=3YnJEwNr3ck) 現在好像沒有
 * [Xcode Shortcuts](https://classroom.udacity.com/courses/ud585/lessons/6994652511/concepts/9736c9fa-55ae-4c4b-b317-0ffcfcb80fae)
-* MVC
-  * view, controller, model
+
+
+
+MVC
+
+* view, controller, model
 
 
 
