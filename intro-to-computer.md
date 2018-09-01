@@ -67,9 +67,7 @@ Two's complement Encoding
 
 ## 電獺少女
 
-連結：[https://www.facebook.com/aottergirls/videos/295341041249750/?comment\_id=295382194578968&notif\_id=1535462885784093&notif\_t=video\_reply](https://www.facebook.com/aottergirls/videos/295341041249750/?comment_id=295382194578968&notif_id=1535462885784093&notif_t=video_reply)
-
-到 58:43
+連結：[https://www.youtube.com/watch?v=FtPogfFfVIU&t=2658s](https://www.youtube.com/watch?v=FtPogfFfVIU&t=2658s)
 
 要選 8 GB 以上的 RAM，Chrome, Youtube 那些開一開系統的 4 GB RAM 就用完了。
 
@@ -84,4 +82,24 @@ Two's complement Encoding
 ![](.gitbook/assets/dian-ta-1.png)
 
 不是看 Core i5 或 Core i7 來分，主要是看後面的數字，8開頭就是第 8 代。很多筆電搭載 Core i5-8250U 都做的很輕薄，Core i7 7700HQ 都做在厚重的筆電上，所以你可以用一個輕薄來跑贏上個世代的筆電。尤其 i5 8250U 有些廠商甚至不到 2萬就買得到。
+
+[SSD 規格](https://www.youtube.com/watch?v=NbL231dhnKs)
+
+
+
+## CS50
+
+motherboard 是主機板
+
+[CS50](https://www.youtube.com/watch?v=6mbFO0ZLMW8&t=2342s)
+
+可從 edX 去看
+
+
+
+\[知乎\]除了edx，coursera，网络还有哪里公开课资源？[https://www.zhihu.com/question/27952897](https://www.zhihu.com/question/27952897)
+
+台灣開放式課程聯盟
+
+
 
