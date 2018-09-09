@@ -31,34 +31,7 @@ Build An App called Pitch Perfect that lets you record your voice and play it ba
   * play it back with various sound effects
 * 效果感覺可以搭配 resonance audio 做新增
 
-## 實作
 
-* 在 Xcode 開一個專案，選擇 Single view application\(open up a new project wizard, And then select a Single View Application\)
-
-AppDelegate class that will listen to system events, such as when your app starts, when you get a memory warning and when your app is sent into the background. There's also this default ViewController class
-
-
-
-Xcode 裡右上角的黃色箭頭可以做修復的動作
-
-Xcode shortcut
-
-simulator 會預設出現 TV out，[可以把它關掉](https://stackoverflow.com/questions/29721782/xcode-disable-tv-out-window)
-
-可以從 window&gt;scale 去調整畫面大小
-
-2種加上 constraint 的方式
-
-1. 用右下角的 align
-2. 按下 control 拖拉物件到你要的 view 後藉由 dialog 去點選 constraint
-
-
-
-
-
-看到 Lesson2：
-
-[https://classroom.udacity.com/courses/ud585/lessons/6996461702/concepts/69986025130923](https://classroom.udacity.com/courses/ud585/lessons/6996461702/concepts/69986025130923)
 
 Medium 筆記：[https://medium.com/@jeffreywang1183/ios-app-實作-pitch-perfect-音樂-4b85c6af35ea](https://medium.com/@jeffreywang1183/ios-app-實作-pitch-perfect-音樂-4b85c6af35ea)
 
@@ -78,12 +51,54 @@ Meeting transfer
 MVC
 
 * view, controller, model
+* view and model will tell the controller what they need
+* MVC is used for iOS and Mac apps
+
+
+
+開一個新專案
+
+* 在 Xcode 開一個專案，選擇 Single view application\(open up a new project wizard, And then select a Single View Application\)
+* Xcode 裡右上角的黃色箭頭可以做修復的動作
+* simulator 會預設出現 TV out，[可以把它關掉](https://stackoverflow.com/questions/29721782/xcode-disable-tv-out-window)
+* 可以從 window&gt;scale 去調整畫面大小
 
 
 
 
 
+Add user interface elements in iOS
+
+* build the first part of the Pitch Perfect app by adding and connecting buttons from an interface to code.
+* How to add a UIbutton and setting up the text and background color.
+* A system for positioning UI elements on screen called auto layout
+  * layout constraints are the rules you give auto layout so that it can do its work
+  * intrinsic size, that is they have a built in height and width.
+  * then it only needs one additional constraint on each axis. iOS can automatically calculate the spacing on the remaining sides. You need a minimum of two constraints on each axis to properly lay out a UI element.
+  * 至少知道要知道兩個方向的長度
 
 
-### 
+
+2種加上 constraint 的方式
+
+1. 用右下角的 align
+2. 按下 control 拖拉物件到你要的 view 後藉由 dialog 去點選 constraint
+
+I’m going to hold down the control key and click drag to the View. 
+
+What is the difference between an IBOutlet and an IBAction?
+
+IBActions trigger code to run, and IBOutlets let code affect the UI.
+
+![](.gitbook/assets/ios_2.png)
+
+
+
+Application Lifecycle
+
+* [很棒的影片](https://www.youtube.com/watch?time_continue=122&v=2U9_S0L8p_4)[https://www.youtube.com/watch?time\_continue=122&v=2U9\_S0L8p\_4](https://www.youtube.com/watch?time_continue=122&v=2U9_S0L8p_4)
+
+用 option key 在物件上點兩下，可以開文件
+
+在 iOS 裡 Will function 比 Did function 早
 
