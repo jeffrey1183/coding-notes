@@ -102,3 +102,14 @@ Application Lifecycle
 
 在 iOS 裡 Will function 比 Did function 早
 
+
+
+#### Add Image to the Stop Recording Button
+
+* 從 Assets.xcassets 左下角的加號新增圖片，只要檔名有設好，可以直接把圖拖進去，e.g. Echo.png, Echo@2x.png, Echo@3x.png
+* 然後再把之前設的按鈕變成圖片
+
+Resizing the Stop Button
+
+* Double-click on the constraint and edit the width and height.
+
