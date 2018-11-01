@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Responsive Practive</title>
+  </head>
+   <!-- When page is width than 700px, rendering the sentence "Welcome to My Web Page!-->
+    <style>
+    @media (min-width: 701px) {
+      h1::before{
+        content: "Welcome to My Web Page!";
+
+      }
+
+    }
+
+    @media (max-width: 700px) {
+      h1::before{
+        content: "Welcome"
+      }
+
+
+    }
+
+    </style>
+  <body>
+    <h1></h1>
+
+  </body>
+</html>
