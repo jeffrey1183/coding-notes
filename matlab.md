@@ -2,15 +2,101 @@
 
 
 
-之前的筆記：[https://legacy.gitbook.com/book/jeffrey1183/pm-matlab/edit\#/edit/master/README.md?\_k=f77zli](https://legacy.gitbook.com/book/jeffrey1183/pm-matlab/edit#/edit/master/README.md?_k=f77zli)
+[Matlab 的使用範圍](https://www.mathworks.com/help/matlab/learn_matlab/product-description.html)
+
+* t is used for machine learning, signal processing, image processing, computer vision, communications, computational finance, control design, robotics, and much more.
+
+[矩陣相乘\(matrix multiplication\)](https://www.mathworks.com/help/matlab/learn_matlab/matrices-and-arrays.html)
+
+* 矩陣可以相乘的先決條件是 A 矩陣行數要等於 B 矩陣的列數
+  * [參考影片](https://www.youtube.com/watch?v=5GGiqiQlpaA)
+* MATLAB stores numbers as floating-point values, and arithmetic operations are sensitive to small differences between the actual value and its floating-point representation. You can display more decimal digits using the `format` command:
+* `format` affects only the display of numbers, not the way MATLAB computes or saves them.
+
+矩陣元素自乘：
+
+To perform element-wise multiplication rather than matrix multiplication, use the `.*` operator:
+
+
+
+```text
+a = [1 2 3; 4 5 6; 7 8 10]
+```
+
+```text
+a = 3×3
+
+     1     2     3
+     4     5     6
+     7     8    10
+```
+
+```text
+p = a.*a
+```
+
+```text
+p = 3×3
+
+     1     4     9
+    16    25    36
+    49    64   100
+```
+
+
+
+The matrix operators for multiplication, division, and power each have a corresponding array operator that operates element-wise. For example, raise each element of `a` to the third power:
+
+```text
+a.^3
+```
+
+```text
+ans = 3×3
+
+           1           8          27
+          64         125         216
+         343         512        1000
+```
+
+
+
+[看到 Concatenation](https://www.mathworks.com/help/matlab/learn_matlab/matrices-and-arrays.html)
+
+
+
+
+
+[官方 tutorial](https://www.mathworks.com/help/matlab/learn_matlab/desktop.html) ，我覺得比 Coursera 清楚明瞭
+
+看不懂語法?? 看[物件導向的](https://www.mathworks.com/discovery/object-oriented-programming.html)下面還有一篇
 
 
 
 ## Record and Play Audio
 
-[document](https://www.mathworks.com/help/matlab/import_export/record-and-play-audio.html)
+[document](https://www.mathworks.com/help/matlab/import_export/record-and-play-audio.html) 就可以學很多東西
 
-document 就可以學很多東西
+
+
+
+
+```text
+y = getaudiodata(recObj);
+```
+
+步驟
+
+* 創建一個 object
+* 印出文字，開始錄音
+  * [display method](https://www.mathworks.com/help/matlab/ref/disp.html)
+  * [Record audio](https://www.mathworks.com/help/matlab/ref/audiorecorder.recordblocking.html)
+
+重要知識
+
+* [numeric types, double-precision array ](https://www.mathworks.com/help/matlab/numeric-types.html)
+
+
 
 ## Signal Processing with MATLAB
 
@@ -32,6 +118,10 @@ Adding a semicolon to the end of a command will suppress the output, though the 
 按上可以叫出之前的 command
 
 When you enter just a variable name at the command prompt, MATLAB returns the current value of that variable.
+
+## 語音辨識
+
+[https://www.mathworks.com/help/nnet/examples/deep-learning-speech-recognition.html?s\_eid=PSM\_ml](https://www.mathworks.com/help/nnet/examples/deep-learning-speech-recognition.html?s_eid=PSM_ml)
 
 ## Deep Learning Matlab Onramp
 
@@ -70,5 +160,5 @@ Jason Barnes因意外失去了鼓手必須的靈活手腕，最初他自製了�
 
 
 
-
+之前的筆記：[https://legacy.gitbook.com/book/jeffrey1183/pm-matlab/edit\#/edit/master/README.md?\_k=f77zli](https://legacy.gitbook.com/book/jeffrey1183/pm-matlab/edit#/edit/master/README.md?_k=f77zli)
 

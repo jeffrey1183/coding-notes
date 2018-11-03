@@ -51,11 +51,55 @@ Buffer 介紹
 
 [https://www.youtube.com/watch?v=0sNoGFvfmyg](https://www.youtube.com/watch?v=0sNoGFvfmyg)
 
+聲音的取樣
+
+MIDI
+
+* 買音源其實就是為了 MIDI 放出來的聲音很好
+
+Two's complement Encoding
+
+看到 25:11
 
 
 
 
 
+## 電獺少女
+
+連結：[https://www.youtube.com/watch?v=FtPogfFfVIU&t=2658s](https://www.youtube.com/watch?v=FtPogfFfVIU&t=2658s)
+
+要選 8 GB 以上的 RAM，Chrome, Youtube 那些開一開系統的 4 GB RAM 就用完了。
+
+主流款在 3萬 5 上下
+
+電競和設計
+
+14吋尺寸，窄邊框
+
+選購重點：選8代 CPU，快出第9代 改了 bug
+
+![](.gitbook/assets/dian-ta-1.png)
+
+不是看 Core i5 或 Core i7 來分，主要是看後面的數字，8開頭就是第 8 代。很多筆電搭載 Core i5-8250U 都做的很輕薄，Core i7 7700HQ 都做在厚重的筆電上，所以你可以用一個輕薄來跑贏上個世代的筆電。尤其 i5 8250U 有些廠商甚至不到 2萬就買得到。
+
+[SSD 規格](https://www.youtube.com/watch?v=NbL231dhnKs)
+
+
+
+## CS50
+
+motherboard 是主機板
+
+[CS50](https://www.youtube.com/watch?v=6mbFO0ZLMW8&t=2342s)
+
+可從 edX 去看
+
+
+
+\[知乎\]除了edx，coursera，网络还有哪里公开课资源？[https://www.zhihu.com/question/27952897](https://www.zhihu.com/question/27952897)
+
+台灣開放式課程聯盟
 
 
 
