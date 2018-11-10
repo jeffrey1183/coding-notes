@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>My Website</title>
+  </head>
+  <body>
+    <h1>{% block heading %}{% endblock %}</h1>
+    <!-- Define a variable section of my HTML template saying that a block of HTML content could go here called heading.
+          And this is where that heading block should go, in between the H1 tags.-->
+    <h2>Welcome!</h2>
+    
+    {% block body %}
+    {% endblock %}
+
+  </body>
+</html>
