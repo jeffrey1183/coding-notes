@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [LANGS](langs.md)
+
 * [English Version](en/README.md)
   * [glossary](en/glossary.md)
   * [SUMMARY](en/summary.md)
