@@ -1,0 +1,37 @@
+{
+    "author": "Jeffrey Wang <jeffrey11833@gmail.com",
+    "description": "This is my coding notes",
+    "extension": null,
+    "generator": "site",
+    "language": "en",
+    "isbn": null,
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "My Blog": "https://medium.com/music-tech-alliance"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [],
+    "title": "Coding Notes by Jeffrey Wang",
+    "variables": {}
+}

@@ -1,0 +1,37 @@
+{
+    "author": "Jeffrey Wang <jeffrey11833@gmail.com",
+    "description": "PM 學程式",
+    "extension": null,
+    "generator": "site",
+    "language": "zh",
+    "isbn": null,
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "My Blog": "https://musictech.tw/"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [],
+    "title": "PM 學程式",
+    "variables": {}
+}
