@@ -1,4 +1,4 @@
-# Glossary
+# glossary
 
 [res \(Revision Control System\)](https://en.wikipedia.org/wiki/Revision_Control_System)
 

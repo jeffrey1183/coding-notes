@@ -1,6 +1,6 @@
-# Table of contents
+# SUMMARY
 
-* [Introduction](README.md)
+* [Introduction](./)
 * [About Me](about-me.md)
 * [Glossary](glossary.md)
 * [CS50's Web Programming with Python and JavaScript](cs-50.md)

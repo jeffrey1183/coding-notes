@@ -1,4 +1,4 @@
-# About Me
+# about-me
 
 I'm Jeffrey. This is my notes of learning programming with Github. I pick many practical lessons from Udacity and CS50. I list the projects and functionalities I code.
 

@@ -1,4 +1,4 @@
-# Intro to Computer
+# intro-to-computer
 
 中文課程名稱：計算機概論  
 英文課程名稱：Introduction to Computer  
@@ -79,7 +79,7 @@ Two's complement Encoding
 
 選購重點：選8代 CPU，快出第9代 改了 bug
 
-![](.gitbook/assets/dian-ta-1.png)
+![](../.gitbook/assets/dian-ta-1.png)
 
 不是看 Core i5 或 Core i7 來分，主要是看後面的數字，8開頭就是第 8 代。很多筆電搭載 Core i5-8250U 都做的很輕薄，Core i7 7700HQ 都做在厚重的筆電上，所以你可以用一個輕薄來跑贏上個世代的筆電。尤其 i5 8250U 有些廠商甚至不到 2萬就買得到。
 

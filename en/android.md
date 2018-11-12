@@ -1,4 +1,4 @@
-# Android
+# android
 
 Android 錄音 App 實作，很讚的文章，但問題是看不懂 Java 語法：[https://medium.com/@ssaurel/create-an-audio-recorder-for-android-94dc7874f3d](https://medium.com/@ssaurel/create-an-audio-recorder-for-android-94dc7874f3d)
 

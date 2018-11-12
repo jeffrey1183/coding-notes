@@ -1,4 +1,4 @@
-# iOS
+# ios
 
 ## 專案目標
 
@@ -90,7 +90,7 @@ What is the difference between an IBOutlet and an IBAction?
 
 IBActions trigger code to run, and IBOutlets let code affect the UI.
 
-![](.gitbook/assets/ios_2.png)
+![](../.gitbook/assets/ios_2.png)
 
 
 

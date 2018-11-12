@@ -1,0 +1,22 @@
+# Table of contents
+
+* [Initial page](README.md)
+* [LANGS](langs.md)
+* [English Version](en/README.md)
+  * [glossary](en/glossary.md)
+  * [SUMMARY](en/summary.md)
+  * [about-me](en/about-me.md)
+  * [c++](en/c++.md)
+  * [experiencing-music-technology](en/experiencing-music-technology.md)
+  * [resource](en/resource.md)
+  * [matlab](en/matlab.md)
+  * [cs-50](en/cs-50.md)
+  * [git](en/git.md)
+  * [chapter1](en/chapter1.md)
+  * [side-project](en/side-project.md)
+  * [android](en/android.md)
+  * [ios](en/ios.md)
+  * [intro-to-computer](en/intro-to-computer.md)
+* [中文版](ch/README.md)
+  * [SUMMARY](ch/summary.md)
+

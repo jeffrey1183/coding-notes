@@ -1,4 +1,4 @@
-# Side Project
+# side-project
 
 ## What Problem I Want to Solve
 
