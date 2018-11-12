@@ -1,6 +1,6 @@
 # Table of contents
 
-
+* [Introduction](README.md)
 * [English Version](en/README.md)
   * [glossary](en/glossary.md)
   * [SUMMARY](en/summary.md)
@@ -9,13 +9,15 @@
   * [experiencing-music-technology](en/experiencing-music-technology.md)
   * [resource](en/resource.md)
   * [matlab](en/matlab.md)
-  * [cs-50](en/cs-50.md)
   * [git](en/git.md)
   * [chapter1](en/chapter1.md)
   * [side-project](en/side-project.md)
   * [android](en/android.md)
   * [ios](en/ios.md)
   * [intro-to-computer](en/intro-to-computer.md)
-* [中文版](ch/README.md)
-  * [SUMMARY](ch/summary.md)
+* [CS 50 Notes](cs-50-notes/README.md)
+  * [Lecture 1 - HTML, CSS](cs-50-notes/cs-50.md)
+  * [Git](cs-50-notes/git.md)
+  * [Untitled](cs-50-notes/untitled-1.md)
+* [CS 50 筆記](cs-50.md)
 

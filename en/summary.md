@@ -3,7 +3,7 @@
 * [Introduction](./)
 * [About Me](about-me.md)
 * [Glossary](glossary.md)
-* [CS50's Web Programming with Python and JavaScript](cs-50.md)
+* [CS50's Web Programming with Python and JavaScript](../cs-50-notes/cs-50.md)
 * [C++](c++.md)
 * [Resource](resource.md)
 * [Side Project](side-project.md)
