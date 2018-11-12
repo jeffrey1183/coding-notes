@@ -8,7 +8,7 @@ At first I installed Atom as my IDE, now I use [VS Code](https://code.visualstud
 
 > 之前我都用 Atom 當作我的編輯器，現在我開始用 VS Code。安裝的步驟可以參考[VS Code](https://code.visualstudio.com/docs/setup/mac)，在 command line 喚醒 IDE 的指令是 `code .`
 
-[Lecture 0 - Git](https://www.youtube.com/watch?v=1u2qu-EmIRc)
+
 
 ## [Lecture 1 - HTML, CSS ](https://www.youtube.com/watch?v=XQs5KcUj-Do)
 
