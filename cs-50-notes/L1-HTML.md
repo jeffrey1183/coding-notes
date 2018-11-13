@@ -1,29 +1,24 @@
-# Lecture 1 - HTML, CSS
+# [Lecture 1 - HTML, CSS ](https://www.youtube.com/watch?v=XQs5KcUj-Do)
 
 This class includes a lot of overviews of HTML, CSS and Python programming language. Let's get a whirlwind tour of those programming languages.
 
 The advantage of this series is understanding each programming language quickly. And then according to your interest and master it.
 
-At first I installed Atom as my IDE, now I use [VS Code](https://code.visualstudio.com/docs/setup/mac).
+At first I installed Atom as my IDE, now I use [VS Code](https://code.visualstudio.com/docs/setup/mac). 
 
-> 之前我都用 Atom 當作我的編輯器，現在我開始用 VS Code。安裝的步驟可以參考[VS Code](https://code.visualstudio.com/docs/setup/mac)，在 command line 喚醒 IDE 的指令是 `code .`
+As a product manager, I always define the specification of websites and apps. Here I list this example including what features.
 
-
-
-## [Lecture 1 - HTML, CSS ](https://www.youtube.com/watch?v=XQs5KcUj-Do)
-
-[setupBasicLink.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/setupBasicLink.html)
-
+## Example 1: [setupBasicLink.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/setupBasicLink.html)
 * Open a specified file like "hello.html".
 * Open a website like Google.com
 
-My Extra Study
+## Advanced Learning
+[CSS Link](https://www.w3schools.com/css/css_link.asp)
+* CSS links can be styled in different ways.
+* Styling links with CSS property (e.g. color, font-family, background, etc.).
+* Know 
 
-* StudyWith CSS, links can be styled in different ways.
 
-> * 透過連結打開另一個網站， 例如 Google。
-> * 透過連結打開其他頁面，例如 hello.html。
->
 > Use ID jumping to the section I want in same page link to different sections in the same page
 
 * 設定輸入格的設定樣式
