@@ -11,13 +11,29 @@ As a product manager, I always define the specification of websites and apps. He
 ## Example 1: [setupBasicLink.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/setupBasicLink.html)
 * Open a specified file like "hello.html".
 * Open a website like Google.com
+* [Introduction of HTML <a> Tag](https://www.w3schools.com/tags/tag_a.asp)
 
-## Advanced Learning
+### Advanced Learning
 [CSS Link](https://www.w3schools.com/css/css_link.asp)
 * CSS links can be styled in different ways.
 * Styling links with CSS property (e.g. color, font-family, background, etc.).
-* Know 
+* Four links states: link, visited, hover and active.
+* The `text-decoration` property is mostly used to remove underlines from links
+* The `background-color` property can be used to specify a background color for links.
 
+
+Setting of font-family
+* [reference 1](https://wcc723.github.io/css/2014/01/01/font-family/) 
+
+[CSS Layout - display: inline-block](https://www.w3schools.com/css/css_inline-block.asp)
+
+[CSS Button](https://www.w3schools.com/css/css3_buttons.asp)
+
+### To Be Read
+When setting the style for several link states, there are some order rules:
+* a:hover MUST come after a:link and a:visited
+* a:active MUST come after a:hover
+Read [here](https://stackoverflow.com/questions/7371732/why-does-foo-alink-foo-avisited-selector-override-ahover-aactive-s) to know the reason.
 
 > Use ID jumping to the section I want in same page link to different sections in the same page
 

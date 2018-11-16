@@ -14,19 +14,29 @@
     <!--Open the Google page.-->
     <a href="https://www.google.com">Click here to Google</a><br>
 
-    <!--Styling links with CSS property-->
+    <!--Styling links with 4 states
+    The text-decoration property is mostly used to remove underlines from links
+    -->
 
     <style>
-      a {
-        color:white;
-        font-family: sans-serif;
-        background: red;
+      a:link, a:visited{
+        background-color: white;
+        color: black;
+        border: 2px solid green;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
       }
+      
+      a:hover, a:active{
+        background-color: green;
+        color: white;
+        text-decoration: none;
+      }
+    
     </style>
 
-   <!--
-     A tag: https://www.w3schools.com/tags/tag_a.asp
-   -->
 
     <!--
       This a section to practice how to use id jumping to a section you want and learn how to use unorder list and order list
