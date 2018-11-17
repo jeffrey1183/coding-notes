@@ -1,4 +1,4 @@
-# 第1章 - HTML, CSS
+# HTML, CSS
 
 之前我都用 Atom 當作我的編輯器，現在我開始用 VS Code。安裝的步驟可以參考[VS Code](https://code.visualstudio.com/docs/setup/mac)，在 command line 喚醒 IDE 的指令是 `code .`
 
