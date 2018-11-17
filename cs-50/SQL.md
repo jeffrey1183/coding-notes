@@ -1,6 +1,7 @@
-### SQL
+# [SQL](https://youtu.be/Eda-NmcE5mQ)
 
-And in particular, trying to find some way to use databases to make it easier for our web applications to store and manipulate and use data ultimately.
+
+Trying to find some way to use databases to make it easier for our web applications to store and manipulate and use data ultimately.
 
 And the types of databases that we're going to be talking about today, are relational databases. Which you can think of as effectively storing data inside of a table.
 
@@ -8,9 +9,13 @@ Designing these sorts of tables, but we're going to do so using technology calle
 
 Interact with tables of data that have rows and columns, for instance.
 
-#### PostgreSQL
 
-create.sql
+
+## [create.sql](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/SQL/create.sql)
+
+
+
+PostgreSQL
 
 * 以飛機航班當作例子
 * syntax of creating a [table](https://www.w3schools.com/sql/sql_create_table.asp)
