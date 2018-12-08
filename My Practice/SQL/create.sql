@@ -4,3 +4,7 @@
     destination VARCHAR NOT NULL,
     duration INTEGER NOT NULL
   );
+
+-- Rename table
+ALTER TABLE flight 
+RENAME TO flights;
