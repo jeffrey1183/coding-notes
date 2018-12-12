@@ -37,19 +37,43 @@ Interact with tables of data that have rows and columns, for instance.
 
 
 ## Example 3: [update.sql]()
-* Data needs to be updated and changed
+* Update some data inside the database using [UPDATE query](https://www.tutorialspoint.com/postgresql/postgresql_update_query.htm)
 
 
+## Example 4: [delete.sql]()
+* Delete data inside the database using [DELETE query](https://www.tutorialspoint.com/postgresql/postgresql_delete_query.htm)
+* When I delete one row, and then I add another row. That the numbers just keep adding up and they don't fill in the blanks
+
+## Example 5: [limit.sql]()
+* [LIMIT clause](https://www.tutorialspoint.com/postgresql/postgresql_limit_clause.htm) is used to limit the data amount returned by the SELECT statement.
+* [OFFSET](https://www.postgresql.org/docs/8.0/queries-limit.html) says to skip that many rows before beginning to return rows.
+
+## Example 6: [order.sql]()
+* [ORDER BY](https://www.tutorialspoint.com/postgresql/postgresql_order_by.htm) clause is used to sort the data in ascending or descending order, based on one or more columns.
+* Count how many flights have particular origin.
+* Select the popular places from which people are flying by [HAVING clause](https://www.tutorialspoint.com/postgresql/postgresql_having_clause.htm)
 
 
+#Foreign Keys
+A foreign key is going to be a method that we're going to use in order to connect multiple tables together. SQL is often called a relational database. And it's called a relational database because one thing that makes it quite powerful is the ability to take multiple different tables and relate them together in some way.
 
-```
+看到 40 分
 
-看到 31分
+You can imagine, if we only had this flights table as we had it before,
+
+
+Passengers are a whole different entity, let's keep track of that in a different table. But there's relationships between the tables. A foreign key it's just a fancy way of saying we're referencing the key from a different table. So my flight ID column is referencing the primary key of that flights table.
+
+
+A join allows you to do is take two different tables that are related in some way, and group them together in one when you try to select them.
+
+
+Adminer
+* https://adminer.cs50.net/
+* Adminer is a third party database service that lets you interact with a database online.
 
 
 
 psql command
-
 * [安裝](https://medium.freecodecamp.org/how-to-get-started-with-postgresql-9d3bc1dd1b11)
 * [heroku](https://www.heroku.com/postgres)
