@@ -8,5 +8,6 @@
 * [CS 50 筆記](cs-50-zh/README.md)
   * [Git](cs-50-zh/Git-zh.md)
   * [HTML, CSS](cs-50-zh/HTML, CSS-zh.md)
+* [C++ 筆記](cplusplus.md)
 * [Glossary](glossary.md)
 
