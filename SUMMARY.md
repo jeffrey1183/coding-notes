@@ -11,7 +11,7 @@
    * [Git](/coding-notes/CS-50/Git.md)
    * [HTML,CSS](/coding-notes/CS-50/HTML, CSS.md)
    * [Flask](/coding-notes/Flask.md)
-   * [SQL](/coding-notes/CS-50/SQL.md)
+   * [SQL](CS-50/SQL.md)
  * [C++ Notes](/coding-notes/Cplusplus/Cplusplus.md)
  * [Glossary](glossary.md)
 
