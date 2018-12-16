@@ -6,5 +6,5 @@
   );
 
 -- Rename table
-ALTER TABLE flight 
+ALTER TABLE flight
 RENAME TO flights;
