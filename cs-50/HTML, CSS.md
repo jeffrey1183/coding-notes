@@ -1,15 +1,57 @@
-# [HTML, CSS ](https://www.youtube.com/watch?v=XQs5KcUj-Do)
+# [HTML, CSS](https://youtu.be/1u2qu-EmIRc?t=2146)
+Let's start from HTML, HyperText Markup Language.
 
-This class includes a lot of overviews of HTML, CSS and Python programming language. Let's get a whirlwind tour of those programming languages.
+## Example 1: [hello.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/hello.html)
+* [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2145)
 
-The advantage of this series is understanding each programming language quickly. And then according to your interest and master it.
+### What I Learn
+* The head tag is usually used for metadata, information about the page.
+* The title tag is used for title of page.
+* Open page hello.html from command line.
+* [The indentation is just style, not functional.](https://youtu.be/1u2qu-EmIRc?t=2420)
 
-At first I installed Atom as my IDE, now I use [VS Code](https://code.visualstudio.com/docs/setup/mac). 
+## Example 2: [headings.html]()
+* [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2498)
 
-As a product manager, I always define the specification of websites and apps. Here I list this example including what features.
+### What I Learn
+* Six built in heading tags inside HTML. 
+* H1 is the lagrest and H6 is the smallest. 
+
+
+## Example 3: [lists.html]()
+* [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2628)
+
+### What I Learn
+* Create an unordered list.
+* Create an ordered list.
+
+## Example 4: [imgage0.html]()
+* [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2790)
+
+### What I Learn
+* Put a photo on to my web page.
+
+## Example 5: [imgage1.html]()
+* [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2790)
+
+### What I Learn
+* Display an image and specify the precise dimensions of width and height.
+
+## Example 6: [table.html]()
+* [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=3226)
+
+### What I Learn
+* Rendering a table with rows and columns.
+
+## Example 7: [form.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/form.html)
+* [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=3226)
+
+### What I Learn
+* Collect data from.
+
 
 ## Example 1: [setupBasicLink.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/setupBasicLink.html)
-* Open a specified file like "hello.html".
+(https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/hello.html).
 * Open a website like Google.com
 * [Introduction of HTML <a> Tag](https://www.w3schools.com/tags/tag_a.asp)
 

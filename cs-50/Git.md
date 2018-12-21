@@ -8,6 +8,7 @@ Watching this [video]((https://www.youtube.com/watch?v=1u2qu-EmIRc)) and doing i
 * Basic commands
  * [git clone](https://youtu.be/1u2qu-EmIRc?t=748)and basic commands like cd, ls and touch. 
  * [git add](https://youtu.be/1u2qu-EmIRc?t=904)
+    * `git add *` is a convenient command to track all of files.
  * [git commit](https://youtu.be/1u2qu-EmIRc?t=971)
  * [git status](https://youtu.be/1u2qu-EmIRc?t=1065)
  * [git push](https://youtu.be/1u2qu-EmIRc?t=1120)
@@ -17,6 +18,8 @@ Watching this [video]((https://www.youtube.com/watch?v=1u2qu-EmIRc)) and doing i
  * [git reset](https://youtu.be/1u2qu-EmIRc?t=1673)
  * [git reflog](https://youtu.be/1u2qu-EmIRc?t=1857)
 
+#Advanced Learning 
+* How deal with the console opens a vim when you git commit. Please read the [post](https://stackoverflow.com/questions/6098742/using-git-commit-a-with-vim) form Stack Overflow.
 
-在 git commit 的時候遇到 vim 該怎麼辦：[https://gitbook.tw/chapters/command-line/vim-introduction.html](https://gitbook.tw/chapters/command-line/vim-introduction.html)
+
 

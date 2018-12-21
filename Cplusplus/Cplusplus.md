@@ -1,6 +1,6 @@
 # C++
 
-
+常數：http://squall.cs.ntou.edu.tw/cprog/old/Materials/Constants.html
 
 
 

@@ -22,5 +22,5 @@ Watching this [video]((https://www.youtube.com/watch?v=1u2qu-EmIRc)) and doing i
  * [git reflog](https://youtu.be/1u2qu-EmIRc?t=1857)
 
 
-在 git commit 的時候遇到 vim 該怎麼辦：[https://gitbook.tw/chapters/command-line/vim-introduction.html](https://gitbook.tw/chapters/command-line/vim-introduction.html)
-
+延伸學習：
+* [在 git commit 的時候遇到 vim 該怎麼辦][https://gitbook.tw/chapters/command-line/vim-introduction.html]
