@@ -3,7 +3,7 @@ Git and Github is an entrance to know the field of computer science. It's practi
 
 Git is a version control software you can maintain multiple versions of your software. People will use it not only for versioning their code and for collaborating with others.
 
-Watching this [video]((https://www.youtube.com/watch?v=1u2qu-EmIRc)) and doing it step-by-step is the best practice to learn Git. Here is the list to review them when you forget particular part.
+Watching this [video](https://www.youtube.com/watch?v=1u2qu-EmIRc) and doing it step-by-step is the best practice to learn Git. Here is the list to review them when you forget particular part.
 * [Create a Github repository](https://youtu.be/1u2qu-EmIRc?t=700)
 * Basic commands
  * [git clone](https://youtu.be/1u2qu-EmIRc?t=748)and basic commands like cd, ls and touch. 
