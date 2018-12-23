@@ -245,7 +245,13 @@ form
 * get and post methods
 * 首頁讓用戶輸入他的名字，接著讓名字顯示在頁面上
 * 如果出現 jinja2.exceptions.UndefinedError: 'layout' is undefined  
-表示我的 `{% extends "layout.html" %}` 忘記加雙引號
+表示我的 
+
+``` Flask
+{% extends "layout.html" %} 
+``` 
+
+忘記加雙引號
 
 notes
 
