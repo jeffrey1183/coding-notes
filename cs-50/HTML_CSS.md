@@ -2,8 +2,9 @@ Let's start from HTML and CSS. Each example has its source code and features. Al
 
 # HTML
 
-## Example 1: [hello.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/hello.html)
+## Example 1: [hello.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/hello.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2145)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/hello.html)
 
 What I Learn
 * The head tag is usually used for metadata, information about the page.
@@ -11,47 +12,54 @@ What I Learn
 * Open page hello.html from command line.
 * [The indentation is just style, not functional.](https://youtu.be/1u2qu-EmIRc?t=2420)
 
-## Example 2: [headings.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/headings.html)
+## Example 2: [headings.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/headings.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2498)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/headings.html)
 
 What I Learn
 * Six built in heading tags inside HTML. 
 * H1 is the lagrest and H6 is the smallest. 
 
 
-## Example 3: [lists.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/lists.html)
+## Example 3: [lists.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/lists.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2628)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/lists.html)
 
 What I Learn
 * Create an unordered list.
 * Create an ordered list.
 
-## Example 4: [imgage0.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/image0.html)
+## Example 4: [imgage0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/image0.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2790)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/image0.html)
 
 What I Learn
 * Put a photo on to my web page.
 
-## Example 5: [imgage1.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/image1.html)
+## Example 5: [imgage1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/image1.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2790)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/image1.html)
 
 What I Learn
 * Display an image and specify the precise dimensions of width and height.
 
-## Example 6: [table.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/table.html)
+## Example 6: [table.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/table.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=3226)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/table.html)
 
 What I Learn
 * Rendering a table with rows and columns.
 
-## Example 7: [form.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/form.html)
+## Example 7: [form.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/form.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=3226)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/form.html)
 
 What I Learn
 * Render a form and a button to collect the full name of users. 
 * Now all we're doing is designing the front end. Not yet using other programming languages like Python and JavaScript begin to take the results of form information.
 
-### Advanced Learning: [form1.html]()
+### Advanced Learning: [form1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/form1.html)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/form1.html)
 * Create a one-line text input field and password.
 * Create radio buttons let a user select only one of a limited number of choices.
 * Create datalist let a user select only one of a limited number of choices.
@@ -61,10 +69,13 @@ What I Learn
 
 #CSS
 
-## Example 1: [style0.html](), [style1.html](), [style2.html]()
+## Example 1: [style0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style0.html), [style1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style1.html), [style2.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style2/style2.html)
 * [Youtube tutorial for style0.html](https://youtu.be/1u2qu-EmIRc?t=3725)
+* Source code for [style0.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/style0.html)
 * [Youtube tutorial for style1.html](https://youtu.be/1u2qu-EmIRc?t=4062)
+* Source code for [style1.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/style1.html)
 * [Youtube tutorial for style2.html](https://youtu.be/1u2qu-EmIRc?t=4312)
+* Source code for [style2.html](https://github.com/jeffrey1183/coding-notes/tree/master/My%20Practice/HTML_CSS/style2)
 
 
 What I Learn
@@ -72,38 +83,47 @@ What I Learn
 * Select which color you might want by using [colors hex value](https://www.w3schools.com/colors/colors_picker.asp).
 * Three different ways to style your web page. The style0.html is the style attribute directly in the HTML. The style1.html is factoring it out into the header of the HTML page. The style2.html is taking the CSS separate out into a different file. Even if there are many HTML files, they can all reference the same CSS file. It's the most common way you'll use. 
 
-## Example 2:[size.html]()
+## Example 2:[size.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/size/size.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4486)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/size/size.html)
 
 What I Learn
 * Specify the size and spacing of division using the margin and padding.
 
-## Example 3:[font.html]()
+## Example 3:[font.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/font.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4688)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/font.html)
 
 What I Learn
 * Control the font presenting page.
 
 
-## Example 4:[border.html]()
+## Example 4:[border.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/border.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4831)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/border.html)
 
 What I Learn
 * Add a physical box drawn around division.
 
-## Example 5:[table1.html]()
+## Example 5:[table1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/table1.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4916)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/table1.html)
 
 What I Learn
 * Styling table.html with border
 * Removing double borders in the table by the CSS property [border-collapse](https://www.w3schools.com/csSref/pr_border-collapse.asp)
 * [Set the width of table using a percent value.](https://www.w3schools.com/csSref/pr_dim_width.asp) It will shrink and stretch with your screen.
 
-## Example 6:[.html]()
-* [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4916)
+## Example 6:[div_span.html]()
+* [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=)
+* [My source code]
 
 What I Learn
-*
+* Using the id attribute and class attribute to style your page.
+  * The id attribute must be unique. Only one element has the id attribute of top in this example. I can give many elements the same class attribute.
+  * [The id and class attributes can be used in the same element.](https://youtu.be/1u2qu-EmIRc?t=5885)
+  * [When id and class attributes conflict, the deeper one will apply.](https://youtu.be/1u2qu-EmIRc?t=5934)
+* The [font-weight property](https://www.w3schools.com/csSref/pr_font_weight.asp) sets how thick or thin characters in text should be displayed.
 
 
 
@@ -112,6 +132,7 @@ What I Learn
 (https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/hello.html).
 * Open a website like Google.com
 * [Introduction of HTML <a> Tag](https://www.w3schools.com/tags/tag_a.asp)
+* [My source code]
 
 
 

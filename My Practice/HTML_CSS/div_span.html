@@ -2,9 +2,33 @@
 <html>
     <head>
         <title>Welcome to My Website</title>
-        <h1></h1>
+        <style>
+            #top {
+                font-size: 36px;
+            }
+            #middle {
+                font-size: 24px;
+            }
+            #bottom {
+                font-size: 12px;
+            }
+            .name {
+                font-weight: bold;
+            }
+        </style>
         
     </head>
     <body>
+        <!--The id attribute must be unique. Only one element has the id attribute of top in this example. I can give many elements the same class attribute.-->
+        <div id="top">
+            This is the <span class="name">top</span> of my web page.
+        </div>
+        <div id="middle">
+                This is the <span class="name">middle</span> of my web page.
+        </div>
+        <div id="bottom">
+                This is the <span class="name">bottom</span> of my web page.
+        </div>
+            
     </body>
 </html>

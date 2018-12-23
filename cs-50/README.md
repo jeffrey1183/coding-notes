@@ -11,7 +11,7 @@ At first I installed Atom as my IDE, now I use [VS Code](https://code.visualstud
 
 As a product manager, I always define the specification of websites and apps. In my notes,I list each example including what features.
 
-There are many ways to demo and deploy your learning, my way is [Github Pages](https://youtu.be/1u2qu-EmIRc?t=6006). It lets you take a GitHub repository and deploy it to the internet for everyone able to look at.
+There are many ways to demo and deploy your learning to internet. My way is using [Github Pages](https://youtu.be/1u2qu-EmIRc?t=6006). It lets your GitHub repository deploy it to the internet and able to look at for everyone.
 
 Catalog
 * Git
