@@ -1,10 +1,11 @@
-# [HTML, CSS](https://youtu.be/1u2qu-EmIRc?t=2146)
-Let's start from HTML, HyperText Markup Language.
+Let's start from HTML and CSS. Each example has its source code and features. All of them are from [CS50 youtube video](https://youtu.be/1u2qu-EmIRc?t=2146).
+
+# HTML
 
 ## Example 1: [hello.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/hello.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2145)
 
-#### What I Learn
+What I Learn
 * The head tag is usually used for metadata, information about the page.
 * The title tag is used for title of page.
 * Open page hello.html from command line.
@@ -13,7 +14,7 @@ Let's start from HTML, HyperText Markup Language.
 ## Example 2: [headings.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/headings.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2498)
 
-#### What I Learn
+What I Learn
 * Six built in heading tags inside HTML. 
 * H1 is the lagrest and H6 is the smallest. 
 
@@ -21,32 +22,32 @@ Let's start from HTML, HyperText Markup Language.
 ## Example 3: [lists.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/lists.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2628)
 
-#### What I Learn
+What I Learn
 * Create an unordered list.
 * Create an ordered list.
 
 ## Example 4: [imgage0.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/image0.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2790)
 
-#### What I Learn
+What I Learn
 * Put a photo on to my web page.
 
 ## Example 5: [imgage1.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/image1.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2790)
 
-#### What I Learn
+What I Learn
 * Display an image and specify the precise dimensions of width and height.
 
 ## Example 6: [table.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/table.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=3226)
 
-#### What I Learn
+What I Learn
 * Rendering a table with rows and columns.
 
 ## Example 7: [form.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/form.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=3226)
 
-#### What I Learn
+What I Learn
 * Render a form and a button to collect the full name of users. 
 * Now all we're doing is designing the front end. Not yet using other programming languages like Python and JavaScript begin to take the results of form information.
 
@@ -55,7 +56,7 @@ Let's start from HTML, HyperText Markup Language.
 * Create radio buttons let a user select only one of a limited number of choices.
 * Create datalist let a user select only one of a limited number of choices.
 
-# Concepts
+## Concepts
 * [Document Object Model](https://youtu.be/1u2qu-EmIRc?t=3549)
 
 #CSS
@@ -66,7 +67,7 @@ Let's start from HTML, HyperText Markup Language.
 * [Youtube tutorial for style2.html](https://youtu.be/1u2qu-EmIRc?t=4312)
 
 
-#### What I Learn
+What I Learn
 * Add text color and alignment to the heading.
 * Select which color you might want by using [colors hex value](https://www.w3schools.com/colors/colors_picker.asp).
 * Three different ways to style your web page. The style0.html is the style attribute directly in the HTML. The style1.html is factoring it out into the header of the HTML page. The style2.html is taking the CSS separate out into a different file. Even if there are many HTML files, they can all reference the same CSS file. It's the most common way you'll use. 
@@ -74,26 +75,35 @@ Let's start from HTML, HyperText Markup Language.
 ## Example 2:[size.html]()
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4486)
 
-#### What I Learn
+What I Learn
 * Specify the size and spacing of division using the margin and padding.
 
 ## Example 3:[font.html]()
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4688)
 
-#### What I Learn
+What I Learn
 * Control the font presenting page.
 
 
 ## Example 4:[border.html]()
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4831)
 
-#### What I Learn
+What I Learn
 * Add a physical box drawn around division.
 
+## Example 5:[table1.html]()
+* [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4916)
 
+What I Learn
+* Styling table.html with border
+* Removing double borders in the table by the CSS property [border-collapse](https://www.w3schools.com/csSref/pr_border-collapse.asp)
+* [Set the width of table using a percent value.](https://www.w3schools.com/csSref/pr_dim_width.asp) It will shrink and stretch with your screen.
 
+## Example 6:[.html]()
+* [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4916)
 
-
+What I Learn
+*
 
 
 
@@ -105,7 +115,7 @@ Let's start from HTML, HyperText Markup Language.
 
 
 
-#### [CSS Link](https://www.w3schools.com/css/css_link.asp)
+[CSS Link](https://www.w3schools.com/css/css_link.asp)
 * CSS links can be styled in different ways.
 * Styling links with CSS property (e.g. color, font-family, background, etc.).
 * Four links states: link, visited, hover and active.
@@ -113,14 +123,14 @@ Let's start from HTML, HyperText Markup Language.
 * The `background-color` property can be used to specify a background color for links.
 
 
-#### Setting of font-family
+Setting of font-family
 * [reference 1](https://wcc723.github.io/css/2014/01/01/font-family/) 
 
 [CSS Layout - display: inline-block](https://www.w3schools.com/css/css_inline-block.asp)
 
 [CSS Button](https://www.w3schools.com/css/css3_buttons.asp)
 
-#### To Be Read
+To Be Read
 When setting the style for several link states, there are some order rules:
 * a:hover MUST come after a:link and a:visited
 * a:active MUST come after a:hover
@@ -154,7 +164,7 @@ When setting the style for several link states, there are some order rules:
       * This is what allows me to specify how wide I want each column to be.
       * 可以設定每一欄的大小，也可以用 auto 表示自動伸
 
-#### Media Query
+Media Query
 
 透過 media queries 控制一段文字在用印表機列印時不要出現
 
@@ -169,7 +179,7 @@ When setting the style for several link states, there are some order rules:
 * 透過 media queries，當超過一定寬度時文字改變
   * 實作檔案：responsive1.html
 
-#### Media Queries
+Media Queries
 
 * [W3C 教學](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)，介紹 media types 和 media features
 * [stack overflow 案例](https://stackoverflow.com/questions/8549529/what-is-the-difference-between-screen-and-only-screen-in-media-queries#_=_)

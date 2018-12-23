@@ -244,7 +244,7 @@ form
 * Now that we have a back end server, a Python flask server that's running and listening to requests, we can begin to take the results of those forms and do something interesting with them.
 * get and post methods
 * 首頁讓用戶輸入他的名字，接著讓名字顯示在頁面上
-* 如果出現 `jinja2.exceptions.UndefinedError: 'layout' is undefined` 表示我的 `{% extends "layout.html" %}` 忘記加雙引號
+* 如果出現 jinja2.exceptions.UndefinedError: 'layout' is undefined  表示我的 {% extends "layout.html" %} 忘記加雙引號
 
 notes
 
