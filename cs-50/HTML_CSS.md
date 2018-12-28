@@ -1,10 +1,10 @@
 Let's learn the HTML and CSS. Each example has its source code and features. All of them are from [CS50 youtube video](https://youtu.be/1u2qu-EmIRc?t=2146).
 
-## Example 1: [hello.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/hello.html)
+# Example 1: [hello.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/hello.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2145)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/hello.html)
 
-What I Learn
+## What I Learn
 * The head tag is usually used for metadata, information about the page.
 * The title tag is used for title of page.
 * Open page hello.html from command line.
@@ -143,9 +143,9 @@ What I Learn
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=2011)
 
 What I Learn
-1. Create input fills of account name and password.
-2. Create radio buttons.
-3. Using new feature of HTML5 called datalist.
+* Create input fills of account name and password.
+* Create radio buttons.
+* Using new feature of HTML5 called datalist.
 
 # Concepts
 * [Brief of HTML4 Organization and HTML5 New Elements](https://youtu.be/XQs5KcUj-Do?t=1831)
