@@ -1,6 +1,4 @@
-Let's start from HTML and CSS. Each example has its source code and features. All of them are from [CS50 youtube video](https://youtu.be/1u2qu-EmIRc?t=2146).
-
-# HTML
+Let's learn the HTML and CSS. Each example has its source code and features. All of them are from [CS50 youtube video](https://youtu.be/1u2qu-EmIRc?t=2146).
 
 ## Example 1: [hello.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/hello.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2145)
@@ -67,9 +65,8 @@ What I Learn
 ## Concepts
 * [Document Object Model](https://youtu.be/1u2qu-EmIRc?t=3549)
 
-#CSS
 
-## Example 1: [style0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style0.html), [style1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style1.html), [style2.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style2/style2.html)
+## Example 8: [style0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style0.html), [style1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style1.html), [style2.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style2/style2.html)
 * [Youtube tutorial for style0.html](https://youtu.be/1u2qu-EmIRc?t=3725)
 * Source code for [style0.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/style0.html)
 * [Youtube tutorial for style1.html](https://youtu.be/1u2qu-EmIRc?t=4062)
@@ -83,14 +80,14 @@ What I Learn
 * Select which color you might want by using [colors hex value](https://www.w3schools.com/colors/colors_picker.asp).
 * Three different ways to style your web page. The style0.html is the style attribute directly in the HTML. The style1.html is factoring it out into the header of the HTML page. The style2.html is taking the CSS separate out into a different file. Even if there are many HTML files, they can all reference the same CSS file. It's the most common way you'll use. 
 
-## Example 2:[size.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/size/size.html)
+## Example 9: [size.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/size/size.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4486)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/size/size.html)
 
 What I Learn
 * Specify the size and spacing of division using the margin and padding.
 
-## Example 3:[font.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/font.html)
+## Example 10: [font.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/font.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4688)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/font.html)
 
@@ -98,14 +95,14 @@ What I Learn
 * Control the font presenting page.
 
 
-## Example 4:[border.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/border.html)
+## Example 11: [border.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/border.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4831)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/border.html)
 
 What I Learn
 * Add a physical box drawn around division.
 
-## Example 5:[table1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/table1.html)
+## Example 12: [table1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/table1.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4916)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/table1.html)
 
@@ -114,9 +111,9 @@ What I Learn
 * Removing double borders in the table by the CSS property [border-collapse](https://www.w3schools.com/csSref/pr_border-collapse.asp)
 * [Set the width of table using a percent value.](https://www.w3schools.com/csSref/pr_dim_width.asp) It will shrink and stretch with your screen.
 
-## Example 6:[div_span.html]()
-* [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=)
-* [My source code]
+## Example 13: [div_span.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/div_span.html)
+* [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=5361)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/div_span.html)
 
 What I Learn
 * Using the id attribute and class attribute to style your page.
@@ -126,13 +123,37 @@ What I Learn
 * The [font-weight property](https://www.w3schools.com/csSref/pr_font_weight.asp) sets how thick or thin characters in text should be displayed.
 
 
+## Example 14: [link0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/link0.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=1450)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/link0.html)
+
+What I Learn
+* Link to local page.
+* Link to external page like Google.com.
 
 
-## Example 1: [setupBasicLink.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/setupBasicLink.html)
-(https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML/hello.html).
-* Open a website like Google.com
-* [Introduction of HTML <a> Tag](https://www.w3schools.com/tags/tag_a.asp)
-* [My source code]
+## Example 15: [link1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/link1.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=1617)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/link1.html)
+
+What I Learn
+* Link to same page through id attribute. Id is unique.
+
+### Advanced Learning: [link2.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/link2.html)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/link2.html)
+* Styling links with four states, which are link, visit, hover and active.
+
+## Example 16: [form1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/form1.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=2011)
+
+What I Learn
+* Create input fills of account name and password.
+* Create radio buttons.
+* Using new feature of HTML5 called datalist.
+
+# Brief of HTML4 Organization and HTML5 New Elements
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=1831)
+
 
 
 
