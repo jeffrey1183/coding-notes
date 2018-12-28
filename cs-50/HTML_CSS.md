@@ -142,10 +142,10 @@ What I Learn
 ## Example 16: [form1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/form1.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=2011)
 
-#### What I Learn
-* Create input fills of account name and password.
-* Create radio buttons.
-* Using new feature of HTML5 called datalist.
+What I Learn
+1. Create input fills of account name and password.
+2. Create radio buttons.
+3. Using new feature of HTML5 called datalist.
 
 # Concepts
 * [Brief of HTML4 Organization and HTML5 New Elements](https://youtu.be/XQs5KcUj-Do?t=1831)
