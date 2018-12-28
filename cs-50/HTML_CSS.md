@@ -62,10 +62,6 @@ What I Learn
 * Create radio buttons let a user select only one of a limited number of choices.
 * Create datalist let a user select only one of a limited number of choices.
 
-## Concepts
-* [Document Object Model](https://youtu.be/1u2qu-EmIRc?t=3549)
-
-
 ## Example 8: [style0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style0.html), [style1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style1.html), [style2.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style2/style2.html)
 * [Youtube tutorial for style0.html](https://youtu.be/1u2qu-EmIRc?t=3725)
 * Source code for [style0.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/style0.html)
@@ -146,13 +142,14 @@ What I Learn
 ## Example 16: [form1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/form1.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=2011)
 
-What I Learn
+#### What I Learn
 * Create input fills of account name and password.
 * Create radio buttons.
 * Using new feature of HTML5 called datalist.
 
-# Brief of HTML4 Organization and HTML5 New Elements
-* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=1831)
+# Concepts
+* [Brief of HTML4 Organization and HTML5 New Elements](https://youtu.be/XQs5KcUj-Do?t=1831)
+* [Document Object Model](https://youtu.be/1u2qu-EmIRc?t=3549)
 
 
 
