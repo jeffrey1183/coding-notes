@@ -4,6 +4,9 @@ Let's learn the HTML and CSS. Each example has its source code and features. All
 * [Brief of HTML4 Organization and HTML5 New Elements](https://youtu.be/XQs5KcUj-Do?t=1831)
 * [Document Object Model](https://youtu.be/1u2qu-EmIRc?t=3549)
 * [Summary of CSS Selectors](https://youtu.be/XQs5KcUj-Do?t=3360)
+* [Responsive Design](https://youtu.be/XQs5KcUj-Do?t=3429)
+ * Go about making those considerations and making sure that our web pages are able to adapt to sorts of different types of platforms and different screen sizes.
+ * [Exmaples](#media)
 
 # Example 1: [hello.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/hello.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2145)
@@ -198,7 +201,7 @@ Let's learn the HTML and CSS. Each example has its source code and features. All
 * Using pseudo-class to style the color when I select a paragraph.
 
 
-
+<span id="media">
 
 [CSS Link](https://www.w3schools.com/css/css_link.asp)
 * CSS links can be styled in different ways.
