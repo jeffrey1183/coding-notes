@@ -6,7 +6,7 @@ Let's learn the HTML and CSS. Each example has its source code and features. All
 * [Summary of CSS Selectors](https://youtu.be/XQs5KcUj-Do?t=3360)
 * [Responsive Design](https://youtu.be/XQs5KcUj-Do?t=3429)
  * Go about making those considerations and making sure that our web pages are able to adapt to sorts of different types of platforms and different screen sizes.
- * [Examples](#css)
+ * <a href="#head">Examples</a>
 
 # Example 1: [hello.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/hello.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2145)
@@ -202,7 +202,8 @@ Let's learn the HTML and CSS. Each example has its source code and features. All
 
 
 
-#CSS(#css)
+<a id="head"/>
+
 [CSS Link](https://www.w3schools.com/css/css_link.asp)
 * CSS links can be styled in different ways.
 * Styling links with CSS property (e.g. color, font-family, background, etc.).
