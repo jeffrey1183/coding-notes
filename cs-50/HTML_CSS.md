@@ -6,9 +6,7 @@ Let's learn the HTML and CSS. Each example has its source code and features. All
 * [Summary of CSS Selectors](https://youtu.be/XQs5KcUj-Do?t=3360)
 * [Responsive Design](https://youtu.be/XQs5KcUj-Do?t=3429)
  * Go about making those considerations and making sure that our web pages are able to adapt to sorts of different types of platforms and different screen sizes.
- * 
- 
- <a href="#head">Examples</a>
+ * [Examples](#id)
 
 # Example 1: [hello.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/hello.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2145)
@@ -196,15 +194,13 @@ Let's learn the HTML and CSS. Each example has its source code and features. All
 ## I've Learned:
 * A [CSS pseudo-element](https://www.w3schools.com/css/css_pseudo_elements.asp) is used to style specified parts of an element. And in this case, the content is slash 21d2, And what this is saying is I want to apply some styling that happens before the contents of the actual link.
 
-# Example 23: [selection.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/selection.html)
+# Example 23: [selection.html](#id)(https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/selection.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=3309)
 
 ## I've Learned:
 * Using pseudo-class to style the color when I select a paragraph.
 
 
-
-<a id="head"/>
 
 [CSS Link](https://www.w3schools.com/css/css_link.asp)
 * CSS links can be styled in different ways.
