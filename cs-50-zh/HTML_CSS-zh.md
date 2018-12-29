@@ -11,3 +11,17 @@
 
 
 [檔案命名建議](http://web.chu.edu.tw/~wswu/webdesign/notes/naming_and_structure.htm)
+
+
+* 當滑鼠 hover 到按鈕上會變顏色
+  * 實作檔案
+    * hover.html
+* 要在所有連結前面加上「指定文字」，例如所有的連結都要是 Click me 開頭
+* 當用戶反白某一段文字時，字的顏色變成紅色，背景變成黃色
+
+
+* 設定輸入格的設定樣式
+  * 練習檔案
+    * defendant selector.html
+    * immediate\_selector.html
+    * attribute\_selector.html

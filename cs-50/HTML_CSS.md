@@ -1,68 +1,73 @@
 Let's learn the HTML and CSS. Each example has its source code and features. All of them are from [CS50 youtube video](https://youtu.be/1u2qu-EmIRc?t=2146).
 
+# Concepts
+* [Brief of HTML4 Organization and HTML5 New Elements](https://youtu.be/XQs5KcUj-Do?t=1831)
+* [Document Object Model](https://youtu.be/1u2qu-EmIRc?t=3549)
+* [Summary of CSS Selectors](https://youtu.be/XQs5KcUj-Do?t=3360)
+
 # Example 1: [hello.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/hello.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2145)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/hello.html)
 
-## What I Learn
+## I've Learned:
 * The head tag is usually used for metadata, information about the page.
 * The title tag is used for title of page.
 * Open page hello.html from command line.
 * [The indentation is just style, not functional.](https://youtu.be/1u2qu-EmIRc?t=2420)
 
-## Example 2: [headings.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/headings.html)
+# Example 2: [headings.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/headings.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2498)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/headings.html)
 
-What I Learn
+## I've Learned:
 * Six built in heading tags inside HTML. 
 * H1 is the lagrest and H6 is the smallest. 
 
 
-## Example 3: [lists.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/lists.html)
+# Example 3: [lists.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/lists.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2628)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/lists.html)
 
-What I Learn
+## I've Learned:
 * Create an unordered list.
 * Create an ordered list.
 
-## Example 4: [imgage0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/image0.html)
+# Example 4: [imgage0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/image0.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2790)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/image0.html)
 
-What I Learn
+## I've Learned:
 * Put a photo on to my web page.
 
-## Example 5: [imgage1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/image1.html)
+# Example 5: [imgage1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/image1.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2790)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/image1.html)
 
-What I Learn
+## I've Learned:
 * Display an image and specify the precise dimensions of width and height.
 
-## Example 6: [table.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/table.html)
+# Example 6: [table.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/table.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=3226)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/table.html)
 
-What I Learn
+## I've Learned:
 * Rendering a table with rows and columns.
 
-## Example 7: [form.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/form.html)
+# Example 7: [form.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/form.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=3226)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/form.html)
 
-What I Learn
+## I've Learned:
 * Render a form and a button to collect the full name of users. 
 * Now all we're doing is designing the front end. Not yet using other programming languages like Python and JavaScript begin to take the results of form information.
 
-### Advanced Learning: [form1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/form1.html)
+## Advanced Practice: [form1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/form1.html)
 * [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/form1.html)
 * Create a one-line text input field and password.
 * Create radio buttons let a user select only one of a limited number of choices.
 * Create datalist let a user select only one of a limited number of choices.
 
-## Example 8: [style0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style0.html), [style1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style1.html), [style2.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style2/style2.html)
+# Example 8: [style0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style0.html), [style1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style1.html), [style2.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/style2/style2.html)
 * [Youtube tutorial for style0.html](https://youtu.be/1u2qu-EmIRc?t=3725)
 * Source code for [style0.html](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/style0.html)
 * [Youtube tutorial for style1.html](https://youtu.be/1u2qu-EmIRc?t=4062)
@@ -71,47 +76,47 @@ What I Learn
 * Source code for [style2.html](https://github.com/jeffrey1183/coding-notes/tree/master/My%20Practice/HTML_CSS/style2)
 
 
-What I Learn
+## I've Learned:
 * Add text color and alignment to the heading.
 * Select which color you might want by using [colors hex value](https://www.w3schools.com/colors/colors_picker.asp).
 * Three different ways to style your web page. The style0.html is the style attribute directly in the HTML. The style1.html is factoring it out into the header of the HTML page. The style2.html is taking the CSS separate out into a different file. Even if there are many HTML files, they can all reference the same CSS file. It's the most common way you'll use. 
 
-## Example 9: [size.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/size/size.html)
+# Example 9: [size.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/size/size.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4486)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/size/size.html)
 
-What I Learn
+## I've Learned:
 * Specify the size and spacing of division using the margin and padding.
 
-## Example 10: [font.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/font.html)
+# Example 10: [font.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/font.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4688)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/font.html)
 
-What I Learn
+## I've Learned:
 * Control the font presenting page.
 
 
-## Example 11: [border.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/border.html)
+# Example 11: [border.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/border.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4831)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/border.html)
 
-What I Learn
+## I've Learned:
 * Add a physical box drawn around division.
 
-## Example 12: [table1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/table1.html)
+# Example 12: [table1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/table1.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=4916)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/table1.html)
 
-What I Learn
+## I've Learned:
 * Styling table.html with border
 * Removing double borders in the table by the CSS property [border-collapse](https://www.w3schools.com/csSref/pr_border-collapse.asp)
 * [Set the width of table using a percent value.](https://www.w3schools.com/csSref/pr_dim_width.asp) It will shrink and stretch with your screen.
 
-## Example 13: [div_span.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/div_span.html)
+# Example 13: [div_span.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/div_span.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=5361)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/div_span.html)
 
-What I Learn
+## I've Learned:
 * Using the id attribute and class attribute to style your page.
   * The id attribute must be unique. Only one element has the id attribute of top in this example. I can give many elements the same class attribute.
   * [The id and class attributes can be used in the same element.](https://youtu.be/1u2qu-EmIRc?t=5885)
@@ -119,37 +124,78 @@ What I Learn
 * The [font-weight property](https://www.w3schools.com/csSref/pr_font_weight.asp) sets how thick or thin characters in text should be displayed.
 
 
-## Example 14: [link0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/link0.html)
+# Example 14: [link0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/link0.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=1450)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/link0.html)
 
-What I Learn
+## I've Learned:
 * Link to local page.
 * Link to external page like Google.com.
 
 
-## Example 15: [link1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/link1.html)
+# Example 15: [link1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/link1.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=1617)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/link1.html)
 
-What I Learn
+## I've Learned:
 * Link to same page through id attribute. Id is unique.
 
-### Advanced Learning: [link2.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/link2.html)
+## Advanced Practice: [link2.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/link2.html)
 * [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/link2.html)
 * Styling links with four states, which are link, visit, hover and active.
 
-## Example 16: [form1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/form1.html)
+# Example 16: [form1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/form1.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=2011)
 
-What I Learn
+## I've Learned:
 * Create input fills of account name and password.
 * Create radio buttons.
 * Using new feature of HTML5 called datalist.
 
-# Concepts
-* [Brief of HTML4 Organization and HTML5 New Elements](https://youtu.be/XQs5KcUj-Do?t=1831)
-* [Document Object Model](https://youtu.be/1u2qu-EmIRc?t=3549)
+
+# Example 17: [multiple.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/multiple.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=2387)
+
+## I've Learned:
+* In CSS, selectors are patterns used to select the element(s) you want to style. I select the h1 and h2 headings and style their color.
+
+# Example 18: [descendant.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/descendant.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=2525)
+
+## I've Learned:
+* Style all of items contained within an ordered list. 
+
+# Example 19: [child.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/child.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=2795)
+
+## I've Learned:
+* Select list items that are immediate children, directly descended from any ordered list. The unordered list inside of the ordered list, those aren't styled. Because they're grandchildren of the ordered list.
+
+
+# Example 20: [attribute.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/attribute.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=2871)
+
+## I've Learned:
+* [In CSS, selectors are patterns used to select the element(s) you want to style.](https://www.w3schools.com/csSref/css_selectors.asp) [Here is the example when an attribute equals a value.](https://www.w3schools.com/csSref/sel_attribute_value.asp)
+
+# Example 21: [hover.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/hover.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=3075)
+
+## I've Learned:
+* Pseudo-class is a specific state of an HTML element which is for interacting with that web page. Take this for example, When we hover over a button, it changes into another color.
+
+
+# Example 22: [before.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/before.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=3188)
+
+## I've Learned:
+* A [CSS pseudo-element](https://www.w3schools.com/css/css_pseudo_elements.asp) is used to style specified parts of an element. And in this case, the content is slash 21d2, And what this is saying is I want to apply some styling that happens before the contents of the actual link.
+
+# Example 23: [selection.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/selection.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=3309)
+
+## I've Learned:
+* Using pseudo-class to style the color when I select a paragraph.
 
 
 
@@ -179,16 +225,9 @@ When setting the style for several link states, there are some order rules:
 
 > Use ID jumping to the section I want in same page link to different sections in the same page
 
-* 設定輸入格的設定樣式
-  * 練習檔案
-    * defendant selector.html
-    * immediate\_selector.html
-    * attribute\_selector.html
-* 當滑鼠 hover 到按鈕上會變顏色
-  * 實作檔案
-    * hover.html
-* 要在所有連結前面加上「指定文字」，例如所有的連結都要是 Click me 開頭
-* 當用戶反白某一段文字時，字的顏色變成紅色，背景變成黃色
+
+
+
   * selector.html
 * 實作 flexbox
   * 學習 [CSS element&gt;element Selector](https://www.w3schools.com/cssref/sel_element_gt.asp)
@@ -223,10 +262,7 @@ Media Queries
 * [W3C 教學](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)，介紹 media types 和 media features
 * [stack overflow 案例](https://stackoverflow.com/questions/8549529/what-is-the-difference-between-screen-and-only-screen-in-media-queries#_=_)
 * viewport 是什麼？[手機螢幕尺寸是對角線](https://kknews.cc/zh-tw/digital/enmyxby.html)
-* [CSS pseudo-elements 參考資料](https://www.w3schools.com/css/css_pseudo_elements.asp)
-  * pseudo-class is a special state of an HTML element which is for interacting with that web page. For example, when we hover over a button, it becomes another color we saw.
-  * 說明 ::before Pseudo-element
-* [CSS content Property](https://www.w3schools.com/cssref/pr_gen_content.asp) 會跟 [::before](https://www.w3schools.com/cssref/sel_before.asp)  和 [::after](https://www.w3schools.com/cssref/sel_after.asp) pseudo-elements 一起使用，產生頁面上的內容
+
 
 ### Bootstrap
 
