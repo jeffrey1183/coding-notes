@@ -34,8 +34,6 @@ Start to know the workflow when you cowork withr other engineers
  * git pull is the process of downloading the latest commits and move myself to the latest commit based on the master branch.
  * Create a [fork](https://youtu.be/XQs5KcUj-Do?t=1227) of repository means that we have a version of the repository that belongs to you. You can do whatever you want to it and all of that won't affect the original version of the repository. Open source project is an good example. Contributors fork the repository and make their necessary changes to their own version.
  * [Pull Requests](https://youtu.be/XQs5KcUj-Do?t=1254) as a good way of getting feedback or comments from other people that you're collaborating with on projects. You would like someone to review those changes before we merge them into the master branch of a repository, for example. It's a good sanity way to take a step back and take a look at the code that you're about to merge before you actually perform that merge.
- 
- [forks](https://youtu.be/XQs5KcUj-Do?t=1195)
 
 
 

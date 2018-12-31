@@ -2,27 +2,23 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Responsive Practive</title>
-  </head>
-   <!-- When page is width than 700px, rendering the sentence "Welcome to My Web Page!-->
+    <title>Responsive Practice</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+   <!-- When page is width than 500px, rendering the sentence "Welcome to My Web Page!-->
     <style>
-    @media (min-width: 701px) {
+    @media (min-width: 500px) {
       h1::before{
         content: "Welcome to My Web Page!";
-
       }
-
     }
-
-    @media (max-width: 700px) {
+    @media (max-width: 499px) {
       h1::before{
         content: "Welcome"
       }
-
-
     }
-
     </style>
+  </head>
   <body>
     <h1></h1>
 

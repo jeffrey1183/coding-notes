@@ -2,11 +2,14 @@ Let's learn the HTML and CSS. Each example has its source code and features. All
 
 # Concepts
 * [Brief of HTML4 Organization and HTML5 New Elements](https://youtu.be/XQs5KcUj-Do?t=1831)
-* [Document Object Model](https://youtu.be/1u2qu-EmIRc?t=3549)
-* [Summary of CSS Selectors](https://youtu.be/XQs5KcUj-Do?t=3360)
-* [Responsive Design](https://youtu.be/XQs5KcUj-Do?t=3429)
- * Go about making those considerations and making sure that our web pages are able to adapt to sorts of different types of platforms and different screen sizes.
- * [Examples]{#rwd}
+* [Document object model](https://youtu.be/1u2qu-EmIRc?t=3549)
+* [Summary of CSS selectors](https://youtu.be/XQs5KcUj-Do?t=3360)
+* [Responsive design](https://youtu.be/XQs5KcUj-Do?t=3429), go about making those considerations and making sure that our web pages are able to adapt to sorts of different types of platforms and different screen sizes.
+ * [What is viewport](https://www.w3schools.com/css/css_rwd_viewport.asp)
+* Bootstrap
+ * [How to deal with styling conflicts in Boostrap](https://youtu.be/XQs5KcUj-Do?t=4833)
+ * [Can I customize the Bootstrap classes?](https://youtu.be/XQs5KcUj-Do?t=4910)
+ * Go to [documentation](https://getbootstrap.com/docs/3.3/components/#dropdowns) on Bootstrap's website, you can look at all of components you can use.
 
 # Example 1: [hello.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/hello.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2145)
@@ -200,154 +203,114 @@ Let's learn the HTML and CSS. Each example has its source code and features. All
 ## I've Learned:
 * Using pseudo-class to style the color when I select a paragraph.
 
+# Example 24: [print.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/print.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=3586)
 
-# Responsive Design {#rwd}
+## I've Learned:
+* Using [media queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) to specify a particular paragraph not displaying when I print the page. 
 
+# Example 25: [responsive0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/responsive0.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=3741)
 
+## I've Learned:
+* Using [media queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) to control the content being viewed on different-sized devices. In this case, when the width is at least 500 pixels, the backgroud color is red. When the width is below 500 pixels, the backgroud color is blue.
+ * Examples from [stack overflow](https://stackoverflow.com/questions/8549529/what-is-the-difference-between-screen-and-only-screen-in-media-queries#_=_))
 
+# Example 26: [responsive1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/responsive1.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=3889)
 
-[CSS Link](https://www.w3schools.com/css/css_link.asp)
-* CSS links can be styled in different ways.
-* Styling links with CSS property (e.g. color, font-family, background, etc.).
-* Four links states: link, visited, hover and active.
-* The `text-decoration` property is mostly used to remove underlines from links
-* The `background-color` property can be used to specify a background color for links.
+## I've Learned:
+* Using [media queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) to display different content on different pixels. 
+* [Setting the viewport](https://www.w3schools.com/css/css_rwd_viewport.asp)
 
+# Example 27: [flexbox.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/flexbox.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=4122)
 
-Setting of font-family
-* [reference 1](https://wcc723.github.io/css/2014/01/01/font-family/) 
+## I've Learned:
+* [CSS flexbox](https://www.w3schools.com/css/css3_flexbox.asp) is the solution when we have items appearing in multiple columns of content across the screen, we might want those things to move around as we begin to resize the window in order to make it more adaptable to different platforms and different devices. 
 
-[CSS Layout - display: inline-block](https://www.w3schools.com/css/css_inline-block.asp)
+# Example 28: [grid.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/grid.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=4270)
 
-[CSS Button](https://www.w3schools.com/css/css3_buttons.asp)
-
-To Be Read
-When setting the style for several link states, there are some order rules:
-* a:hover MUST come after a:link and a:visited
-* a:active MUST come after a:hover
-* Read [here](https://stackoverflow.com/questions/7371732/why-does-foo-alink-foo-avisited-selector-override-ahover-aactive-s) to know the reason.
-
-----
-
-> Use ID jumping to the section I want in same page link to different sections in the same page
-
-
-
-
-  * selector.html
-* 實作 flexbox
-  * 學習 [CSS element&gt;element Selector](https://www.w3schools.com/cssref/sel_element_gt.asp)
-    * 有一個 div class 叫 container，我可以選取在他底下的 div 設定樣式
-* 實作 grid
-  * grid.html
-  * 相關知識：什麼是 [Viewport](https://www.w3schools.com/Css/css_rwd_viewport.asp)，用 media query 去調大小
-    * 用到 CSS 的 [display property](https://www.w3schools.com/cssref/pr_class_display.asp) 之中的 grid,
-    * [設定 grid-column-gap](https://www.w3schools.com/cssref/pr_grid-column-gap.asp)
-    * [設定 grid-row-gap](https://www.w3schools.com/cssref/pr_grid-row-gap.asp)
-    * [設計 grid-template-columns](https://www.w3schools.com/cssref/pr_grid-template-columns.asp)
-      * This is what allows me to specify how wide I want each column to be.
-      * 可以設定每一欄的大小，也可以用 auto 表示自動伸
-
-Media Query
-
-透過 media queries 控制一段文字在用印表機列印時不要出現
-
-* 創作一個 screen-only 的 class
-* 實作檔案
-  * print.html
-
-實作 Responsive
-
-* 透過 media queries ，當超過一定寬度時背景顏色改變
-  * 實作檔案：responsive0.html
-* 透過 media queries，當超過一定寬度時文字改變
-  * 實作檔案：responsive1.html
-
-Media Queries
-
-* [W3C 教學](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)，介紹 media types 和 media features
-* [stack overflow 案例](https://stackoverflow.com/questions/8549529/what-is-the-difference-between-screen-and-only-screen-in-media-queries#_=_)
-* viewport 是什麼？[手機螢幕尺寸是對角線](https://kknews.cc/zh-tw/digital/enmyxby.html)
+## I've Learned:
+* Displays information in a [grid format](https://www.w3schools.com/css/css_grid.asp) which is sort of like a table.
+* Set the width of your grid columns by [grid-template-columns](https://www.w3schools.com/cssref/pr_grid-template.asp) 
 
 
-### Bootstrap
 
-* And one of the most popular libraries is called Bootstrap.
-* We can use them in order to make our lives easier when it comes to making our websites mobile-responsive, for example.
-* 要安裝 bootstrap 才能在本機端看到變化
+# Bootstrap
+Bootstrap is an easy way of giving you access to some CSS that lets you make your websites styled more nicely and mobile-responsive without you do a lot of work. Bootstrap defines a whole bunch of classes for this purpose. It is one of the most popular libraries of HTML, CSS, and JS.
 
-先在 HTML 檔案裡面設定 bootstrap 的 link，可以從 [Getting Started](https://getbootstrap.com/docs/3.3/getting-started/) 找，如果 link 內的版本有問題，預覽就失敗。
+## Example 29: [nobootsrap.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/nobootsrap.html) and [bootsrap.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/bootsrap.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=4486)
 
-先做了 2 個檔案，去做比較：
+### I've Learned:
+* [Getting started](https://getbootstrap.com/docs/3.3/getting-started/) with Bootstrap by adding a link line linking to Bootstrap's CSS file, which is located somewhere on the internet.
 
-* nobootsrap.html
-* bootstrap.html
+## Example 30: [column0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/column0.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=4571)
 
-column1.html
+### I've Learned:
+* Bootstrap's layout system uses a column-based model where the website is divided into 12 individual columns. 
+* In this case, I got four sections, these four individual columns that are each taking up three out of the 12 total columns.
 
-* 練習不同尺寸要用不同的 class\(col-lg-3, col-sm-6\)
-* 一般來說自己定義的 class 會避免與 bootstrap 相同，如果用相同的 class ，就看誰訂的細
+## Example 30: [column1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/column1.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=4671)
 
-alert.html
+### I've Learned:
+* On a large screen, each column will take up three out of the 12 possible columns. There are four sections in a line.
+* On a small screen, each one will take up half of the total width of my Bootstrap grid. There are two sections in a line. Bootstrapis is actually written using flexbox.
+* When 
 
-* 練習用 [alert](https://v4-alpha.getbootstrap.com/components/alerts/?)
+## Example 31: [alert.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/alert.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=4930)
 
-想要知道更多 components 就到 bootstrap.com 的 documents
+### I've Learned:
+* [Create alert messages.](https://getbootstrap.com/docs/4.0/components/alerts/)
 
-### Sass
 
-當 stylesheet 越來越複雜
 
-we're going to do now is introduce an entirely new language which is built on top of CSS called Sass.
+# Sass
+Sass is is it's an extension to CSS that gives us more power and flexibility when it comes to designing CSS stylesheets. It is built on top of CSS.
 
-And what Sass is is it's an extension to CSS that gives us a little more power and a little more flexibility when
+If I had dozens of different examples of CSS styling in particular colors, I might need to go through all of them and change those individual colors. Sass can help you complete the repetitive work.
 
-檔名是叫 scss
 
-all variables in Sass begin with a dollar sign
+## Example 32: [variables](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/variables/variabls.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=5042)
 
-So what we need to do is take this SCSS file, this Sass file, and convert it into a CSS file.
+### I've Learned:
+* Defining a new variable called color in SCSS file. And its value is going to be red. I replace the value of color attritute with the variable.
+* [Installing Sass locally](https://sass-lang.com/install) to see what the resulting CSS looks like, it's a freely and pretty small piece of software. You'll need to install Sass in order to make sass command below.
+* Our web browsers understand CSS, but they don't understand Sass file. So we need convert SCSS file into a CSS file by the command
 
-寫好 scss 之後再轉成 css 檔案
-
-```text
+```
 $ sass variables.scss variable.css
 ```
+* If I change the variable in the SCSS, the CSS file won't automatically compile. You need to recompile it by the above command. It's annoying every time you make a change to a SCSS file, you're going to need to recompile it again.
 
-用 scss 的好處就是修改很方便，修改完要 recompiler
+Or using the [--watch command](http://sassbreak.com/watch-your-sass/) automatically recompile the CSS file as below.
 
-要自動 compile
-
-```text
-sass --watch variables.scss:variable.css
 ```
+$ sass --watch variables.scss:variable.css
+```
+* GitHub Pages have built-in support for Sass. GitHub will automatically take care of the process of compiling that Sass file from a .scss file to a .css file.
 
-要 install scss 才能在本機端看到變化， Github 本身支援自動轉換
+* The CSS file is the only one that the browser actually understands. Google Chrome doesn't know how to take a Sass file and understand what the variables mean. So what we need to do is referencing to the CSS file.
 
-GitHub Pages included, have built-in support for Sass such that if you push an SCSS file to GitHub Pages in project 0, for instance,
 
-GitHub will automatically take care of the process of compiling that Sass file from a .scss file to a .css file such that when someone goes to your website,
+## Example 33: [nesting.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/nesting/nesting.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=5717)
 
-you'll need to install Sass in order to make any of that-- the command line sass command work that does the compilation from SCSS files to CSS.
+### I've Learned:
+* Using more convenient way to style any paragraphs that are inside of a division in SCSS file. Better than regular CSS.
 
-很重要的問題：how does Sass work when we're dealing with multiple different files? Sass has a built-in command that actually lets you import existing CSS from a different file into a Sass file.
 
-So there's built-in support for multi-file stylesheets built into Sass. If you go to the Sass website, you'll find examples of how they're able to incorporate different files into the same file in order to use variables that are defined in a different file in a separate stylesheet.
+## Example 34: [inheritance.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/inheritance/inheritance.html)
+* [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=5980)
 
-問題：那到底 HTML 的的 link tag 要連去 css 還是 scss 的檔案？
-
-We always want to link the CSS file, because the CSS file is the only one that the browser actually understands. Google Chrome, out of the box, doesn't know how to take a Sass file and understand what the variables mean. It only understands the CSS file.
-
-倒數第二段
-
-one other feature that's very helpful is nesting different CSS selectors within each other.
-
-最後一段
-
-But the last one that we'll take a look at today is the concept of inheritance.
-
-[hex value for unicode symbol](https://www.fileformat.info/info/unicode/char/21d2/index.htm)
-
-![](https://github.com/jeffrey1183/coding-notes/tree/fe239f39037dcfa3909e3add794abde6ee061bcd/en/.gitbook/assets/cs50_p1.png)
+### I've Learned:
+* [Inheritance](https://sass-lang.com/guide) in the context of Sass is used to refer to when you have some general styling that you might want to apply to a whole bunch of different things, but each of those different things you want to be styled in a slightly different way.
+* Create different background-color messages.
 
 
