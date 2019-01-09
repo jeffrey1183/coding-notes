@@ -42,7 +42,7 @@ The version of JavaScript that we're going to be using in this class is one of t
 * [We can use document.querySelector to select a html tag, id and class.](https://youtu.be/xMs4ER1rcLg?t=1083)
 * We can make a button called multiple functions, but not in this case.
 
-## Advanced Practice: [getElement].html](https://jeffrey1183.github.io/coding-notes/My%20Practice/JavaScript/getElement.html)
+## Advanced Practice: [getElement.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/JavaScript/getElement.html)
 * [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/JavaScript/getElement.html)
 * The [getElementById() method](https://www.w3schools.com/jsref/met_document_getelementbyid.asp) returns the element that has the ID attribute with the specified value.
 
