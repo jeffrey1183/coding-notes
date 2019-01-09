@@ -11,8 +11,8 @@ As a product manager, I always define the specification of websites and apps. In
 
 
 Catalog
-* Git
-* HTML and CSS
+* [Git](cs-50/Git.md)
+* [HTML and CSS](cs-50/HTML_CSS.md)
 * Flask
 * SQL
 * ORMs, APIs
@@ -35,8 +35,10 @@ Projects
 
 # My Tools
 
-## VS Code
+## Visual Studio Code
 At first I installed Atom as my IDE, now I use [VS Code](https://code.visualstudio.com/docs/setup/mac). 
+
+[Quickly launch files in a browser from VS code.](https://www.webucator.com/blog/2016/06/launch-files-browser-visual-studio-code/)
 
 ## GitHub Pages
 There are many ways to demo and deploy your learning to internet. My way is using [Github Pages](https://youtu.be/1u2qu-EmIRc?t=6006). It lets your GitHub repository deploy it to the internet and able to look at for everyone.

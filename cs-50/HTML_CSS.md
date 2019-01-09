@@ -276,7 +276,7 @@ Sass is is it's an extension to CSS that gives us more power and flexibility whe
 If I had dozens of different examples of CSS styling in particular colors, I might need to go through all of them and change those individual colors. Sass can help you complete the repetitive work.
 
 
-## Example 32: [variables](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/variables/variabls.html)
+## Example 32: [variables](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/variables/variables.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=5042)
 
 ### I've Learned:

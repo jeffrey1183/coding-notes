@@ -1,5 +1,8 @@
 # Glossary
 
+pound sign
+* 井字號
+
 [res \(Revision Control System\)](https://en.wikipedia.org/wiki/Revision_Control_System)
 
 ### What is Gitignore
