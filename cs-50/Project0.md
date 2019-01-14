@@ -9,4 +9,7 @@ Advanced:
 ## GitHub Pages
 There are many ways to demo and deploy your learning to internet. My way is using [Github Pages](https://youtu.be/1u2qu-EmIRc?t=6006). It lets your GitHub repository deploy it to the internet and able to look at for everyone.
 
-* [guideline of using Github Pages](https://gitbook.tw/chapters/github/using-github-pages.html)
+* [Guideline of using Github Pages](https://gitbook.tw/chapters/github/using-github-pages.html)
+
+What I learned
+* how to use SCSS variable, SCSS nesting, and SCSS inheritance to maintain my code.

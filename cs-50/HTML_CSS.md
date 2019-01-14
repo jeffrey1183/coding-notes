@@ -295,7 +295,7 @@ If I had dozens of different examples of CSS styling in particular colors, I mig
 
 ## Example 32: [variables](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/variables/variables.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=5042)
-* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/variables.html)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/variables/variables.html)
 
 ### I've Learned:
 * Defining a new variable called color in SCSS file. And its value is going to be red. I replace the value of color attritute with the variable.
@@ -319,7 +319,7 @@ $ sass --watch variables.scss:variable.css
 
 ## Example 33: [nesting.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/nesting/nesting.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=5717)
-* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/nesting.html)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/nesting/nesting.html)
 
 ### I've Learned:
 * Using more convenient way to style any paragraphs that are inside of a division in SCSS file. Better than regular CSS.
