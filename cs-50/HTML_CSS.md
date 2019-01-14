@@ -152,6 +152,7 @@ Let's learn the HTML and CSS. Each example has its source code and features. All
 
 # Example 16: [form1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/form1.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=2011)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/form1.html)
 
 ## I've Learned:
 * Create input fills of account name and password.
@@ -161,18 +162,21 @@ Let's learn the HTML and CSS. Each example has its source code and features. All
 
 # Example 17: [multiple.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/multiple.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=2387)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/multiple.html)
 
 ## I've Learned:
 * In CSS, selectors are patterns used to select the element(s) you want to style. I select the h1 and h2 headings and style their color.
 
 # Example 18: [descendant.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/descendant.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=2525)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/descendant.html)
 
 ## I've Learned:
 * Style all of items contained within an ordered list. 
 
 # Example 19: [child.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/child.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=2795)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/child.html)
 
 ## I've Learned:
 * Select list items that are immediate children, directly descended from any ordered list. The unordered list inside of the ordered list, those aren't styled. Because they're grandchildren of the ordered list.
@@ -180,12 +184,14 @@ Let's learn the HTML and CSS. Each example has its source code and features. All
 
 # Example 20: [attribute.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/attribute.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=2871)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/attribute.html)
 
 ## I've Learned:
 * [In CSS, selectors are patterns used to select the element(s) you want to style.](https://www.w3schools.com/csSref/css_selectors.asp) [Here is the example when an attribute equals a value.](https://www.w3schools.com/csSref/sel_attribute_value.asp)
 
 # Example 21: [hover.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/hover.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=3075)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/hover.html)
 
 ## I've Learned:
 * Pseudo-class is a specific state of an HTML element which is for interacting with that web page. Take this for example, When we hover over a button, it changes into another color.
@@ -193,24 +199,28 @@ Let's learn the HTML and CSS. Each example has its source code and features. All
 
 # Example 22: [before.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/before.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=3188)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/before.html)
 
 ## I've Learned:
 * A [CSS pseudo-element](https://www.w3schools.com/css/css_pseudo_elements.asp) is used to style specified parts of an element. And in this case, the content is slash 21d2, And what this is saying is I want to apply some styling that happens before the contents of the actual link.
 
 # Example 23: [selection.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/selection.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=3309)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/selection.html)
 
 ## I've Learned:
 * Using pseudo-class to style the color when I select a paragraph.
 
 # Example 24: [print.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/print.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=3586)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/print.html)
 
 ## I've Learned:
 * Using [media queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) to specify a particular paragraph not displaying when I print the page. 
 
 # Example 25: [responsive0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/responsive0.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=3741)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/responsive0.html)
 
 ## I've Learned:
 * Using [media queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) to control the content being viewed on different-sized devices. In this case, when the width is at least 500 pixels, the backgroud color is red. When the width is below 500 pixels, the backgroud color is blue.
@@ -218,6 +228,7 @@ Let's learn the HTML and CSS. Each example has its source code and features. All
 
 # Example 26: [responsive1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/responsive1.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=3889)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/responsive1.html)
 
 ## I've Learned:
 * Using [media queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) to display different content on different pixels. 
@@ -225,12 +236,14 @@ Let's learn the HTML and CSS. Each example has its source code and features. All
 
 # Example 27: [flexbox.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/flexbox.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=4122)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/flexbox.html)
 
 ## I've Learned:
 * [CSS flexbox](https://www.w3schools.com/css/css3_flexbox.asp) is the solution when we have items appearing in multiple columns of content across the screen, we might want those things to move around as we begin to resize the window in order to make it more adaptable to different platforms and different devices. 
 
 # Example 28: [grid.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/grid.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=4270)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/grid.html)
 
 ## I've Learned:
 * Displays information in a [grid format](https://www.w3schools.com/css/css_grid.asp) which is sort of like a table.
@@ -243,12 +256,14 @@ Bootstrap is an easy way of giving you access to some CSS that lets you make you
 
 ## Example 29: [nobootsrap.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/nobootsrap.html) and [bootsrap.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/bootsrap.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=4486)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/bootstrap.html)
 
 ### I've Learned:
 * [Getting started](https://getbootstrap.com/docs/3.3/getting-started/) with Bootstrap by adding a link line linking to Bootstrap's CSS file, which is located somewhere on the internet.
 
 ## Example 30: [column0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/column0.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=4571)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/column0.html)
 
 ### I've Learned:
 * Bootstrap's layout system uses a column-based model where the website is divided into 12 individual columns. 
@@ -256,6 +271,7 @@ Bootstrap is an easy way of giving you access to some CSS that lets you make you
 
 ## Example 30: [column1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/column1.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=4671)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/column1.html)
 
 ### I've Learned:
 * On a large screen, each column will take up three out of the 12 possible columns. There are four sections in a line.
@@ -264,6 +280,7 @@ Bootstrap is an easy way of giving you access to some CSS that lets you make you
 
 ## Example 31: [alert.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/alert.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=4930)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/alert.html)
 
 ### I've Learned:
 * [Create alert messages.](https://getbootstrap.com/docs/4.0/components/alerts/)
@@ -278,6 +295,7 @@ If I had dozens of different examples of CSS styling in particular colors, I mig
 
 ## Example 32: [variables](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/variables/variables.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=5042)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/variables.html)
 
 ### I've Learned:
 * Defining a new variable called color in SCSS file. And its value is going to be red. I replace the value of color attritute with the variable.
@@ -301,6 +319,7 @@ $ sass --watch variables.scss:variable.css
 
 ## Example 33: [nesting.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/nesting/nesting.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=5717)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/nesting.html)
 
 ### I've Learned:
 * Using more convenient way to style any paragraphs that are inside of a division in SCSS file. Better than regular CSS.
@@ -308,6 +327,7 @@ $ sass --watch variables.scss:variable.css
 
 ## Example 34: [inheritance.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/inheritance/inheritance.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=5980)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/inheritance.html)
 
 ### I've Learned:
 * [Inheritance](https://sass-lang.com/guide) in the context of Sass is used to refer to when you have some general styling that you might want to apply to a whole bunch of different things, but each of those different things you want to be styled in a slightly different way.

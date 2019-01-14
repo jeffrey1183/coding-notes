@@ -4,7 +4,7 @@ The version of JavaScript that we're going to be using in this class is one of t
 
 # Concepts
 * [Why we might want code running on the client instead of on the server?](https://youtu.be/xMs4ER1rcLg?t=73)
-* 
+* [What is the difference between `var`, `let` and `const`](https://youtu.be/xMs4ER1rcLg?t=2054)
 
 # Example 1: [hello0.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/JavaScript/hello0.html)
 * [Youtube tutorial](https://youtu.be/xMs4ER1rcLg?t=286)
@@ -79,3 +79,4 @@ The version of JavaScript that we're going to be using in this class is one of t
 
 ## I've Learned:
 * Put the JavaScript code not just at the top of the HTML file, but in a second file altogether. It makes the JavaScript file reusable. If I had multiple HTML files that wanted to use the same JavaScript, I could just reference them all to the same JavaScript.
+
