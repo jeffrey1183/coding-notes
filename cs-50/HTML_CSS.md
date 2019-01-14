@@ -327,7 +327,7 @@ $ sass --watch variables.scss:variable.css
 
 ## Example 34: [inheritance.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/inheritance/inheritance.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=5980)
-* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/inheritance.html)
+* [Source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/HTML_CSS/inheritance/inheritance.html)
 
 ### I've Learned:
 * [Inheritance](https://sass-lang.com/guide) in the context of Sass is used to refer to when you have some general styling that you might want to apply to a whole bunch of different things, but each of those different things you want to be styled in a slightly different way.

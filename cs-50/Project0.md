@@ -12,4 +12,4 @@ There are many ways to demo and deploy your learning to internet. My way is usin
 * [Guideline of using Github Pages](https://gitbook.tw/chapters/github/using-github-pages.html)
 
 What I learned
-* how to use SCSS variable, SCSS nesting, and SCSS inheritance to maintain my code.
+* How to use SCSS variable, SCSS nesting, and SCSS inheritance to improve my code.
