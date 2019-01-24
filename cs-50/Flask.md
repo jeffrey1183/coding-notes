@@ -1,19 +1,42 @@
-A very popular framework for making web based applications using Python.It's generally considered a micro framework.
+Flask is a very popular framework for making web based applications using Python.It's generally considered a micro framework.
 
-### Flask
+we start building some dynamic web applications using a programming language called Python in order to build web applications that are a little more powerful than what we can have just by describing the contents of a web page using HTML, for instance.
 
-Today what we're going to do is we're going to take the next step and start building some dynamic web applications using a programming language called Python in order to build web applications that are a little more powerful than what we can have just by describing the contents of a web page using HTML, for instance.
 
-hello.py
+# Example 1: [hello.py](https://jeffrey1183.github.io/coding-notes/My%20Practice/Flask/hello.py)
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=106)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/hello.py)
 
-* What is function and argument
-* How to run a Python file
+## I've Learned:
+* Intro of function and argument.
+* How to run a Python file.
 
-name.py
 
-* 第一行是把用戶輸入的資料變成一個變數
-* 第二行的 f 是 Python 3.6 版之後的新功能，稱做 format string
-  * begins with the letter F. This is a new feature of Python version 3.6--
+# Example 2: [name.py](https://jeffrey1183.github.io/coding-notes/My%20Practice/Flask/name.py)
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=106)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/name.py)
+
+## I've Learned:
+* The syntax of [Python 3's f-Strings](https://realpython.com/python-f-strings/)
+* Choose the Python version in Mac by [pyenv](https://github.com/pyenv/pyenv#choosing-the-python-version). Rememer to load pyenv automatically by appending `eval "$(pyenv init -)"` and set up the environment by `pyenv local 3.6.0` and run your python file. Depending on your requirements, you will have different setup. This is a great [Chinese guideline](https://www.jianshu.com/p/0fa2c7045de8) to referrence. 
+ 
+
+## Advanced Information
+* 
+
+
+# Example 3: [variables.py](https://jeffrey1183.github.io/coding-notes/My%20Practice/Flask/variables.py)
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=429)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/variables.py)
+
+
+
+
+* python 不用設定變數型態
+* Note that I never told my program that i is going to be an integer, or f is going to be a floating point number, or b is going to be a Boolean value.
+* Python figures this out for itself.
+* When I say i equals 28, Python knows that if I'm assigning the number 28 to i, then i must be in integer value. And so if you're familiar with other languages like C or Java, where you're used to having to explicitly write out the name of the type for any particular variable, know that Python doesn't require you to do that, and just lets you take a variable and assign it to any given value without needing to specify explicitly what the type of that value actually is.
+
 
 #### 安裝 Anaconda 後
 
@@ -68,12 +91,7 @@ Python 環境設定
 * [參考 1](https://foofish.net/anaconda-install.html)
 * [參考 2](https://www.zhihu.com/question/58033789)
 
-variable.py
 
-* python 不用設定變數型態
-* Note that I never told my program that i is going to be an integer, or f is going to be a floating point number, or b is going to be a Boolean value.
-* Python figures this out for itself.
-* When I say i equals 28, Python knows that if I'm assigning the number 28 to i, then i must be in integer value. And so if you're familiar with other languages like C or Java, where you're used to having to explicitly write out the name of the type for any particular variable, know that Python doesn't require you to do that, and just lets you take a variable and assign it to any given value without needing to specify explicitly what the type of that value actually is.
 
 ### Indentation
 

@@ -1,3 +1,7 @@
 {
-    "C_Cpp.dimInactiveRegions": false
+    "C_Cpp.dimInactiveRegions": false,
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "python.pythonPath": "/Users/junyuanwang/.pyenv/versions/3.6.0/bin/python"
 }

@@ -44,6 +44,7 @@ Let's learn the HTML and CSS. Each example has its source code and features. All
 
 ## I've Learned:
 * Put a photo on to my web page.
+* [Setting up the file path of an image.](https://www.w3schools.com/html/html_filepaths.asp)
 
 # Example 5: [imgage1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/image1.html)
 * [Youtube tutorial](https://youtu.be/1u2qu-EmIRc?t=2790)
@@ -224,7 +225,7 @@ Let's learn the HTML and CSS. Each example has its source code and features. All
 
 ## I've Learned:
 * Using [media queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) to control the content being viewed on different-sized devices. In this case, when the width is at least 500 pixels, the backgroud color is red. When the width is below 500 pixels, the backgroud color is blue.
- * Examples from [stack overflow](https://stackoverflow.com/questions/8549529/what-is-the-difference-between-screen-and-only-screen-in-media-queries#_=_))
+ * Examples from [stack overflow](https://stackoverflow.com/questions/8549529/what-is-the-difference-between-screen-and-only-screen-in-media-queries#_=_)
 
 # Example 26: [responsive1.html](https://jeffrey1183.github.io/coding-notes/My%20Practice/HTML_CSS/responsive1.html)
 * [Youtube tutorial](https://youtu.be/XQs5KcUj-Do?t=3889)

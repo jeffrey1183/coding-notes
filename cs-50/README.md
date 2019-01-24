@@ -45,4 +45,8 @@ My document is edited by markdown and here are tips I learned
 * [How to link to a named anchor in Multimarkdown?](https://stackoverflow.com/questions/6695439/how-to-link-to-a-named-anchor-in-multimarkdown)
 
 
+# GitHub Pages
+There are many ways to demo and deploy your learning to internet. My way is using [Github Pages](https://youtu.be/1u2qu-EmIRc?t=6006). It lets your GitHub repository deploy it to the internet and able to look at for everyone.
+
+* [Guideline of using Github Pages](https://gitbook.tw/chapters/github/using-github-pages.html)
 
