@@ -13,22 +13,21 @@ we start building some dynamic web applications using a programming language cal
 
 
 # Example 2: [name.py](https://jeffrey1183.github.io/coding-notes/My%20Practice/Flask/name.py)
-* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=106)
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=208)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/name.py)
 
 ## I've Learned:
-* The syntax of [Python 3's f-Strings](https://realpython.com/python-f-strings/)
+* The syntax of [Python 3's f-Strings](https://realpython.com/python-f-strings/) which is the latest feature in Python 3.6.0.
 * Choose the Python version in Mac by [pyenv](https://github.com/pyenv/pyenv#choosing-the-python-version). Rememer to load pyenv automatically by appending `eval "$(pyenv init -)"` and set up the environment by `pyenv local 3.6.0` and run your python file. Depending on your requirements, you will have different setup. This is a great [Chinese guideline](https://www.jianshu.com/p/0fa2c7045de8) to referrence. 
  
-
-## Advanced Information
-* 
-
 
 # Example 3: [variables.py](https://jeffrey1183.github.io/coding-notes/My%20Practice/Flask/variables.py)
 * [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=429)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/variables.py)
 
+
+## I've Learned:
+* Look at the different types of information that we can store inside of a Python variable.
 
 
 
