@@ -1,9 +1,11 @@
-Flask is a very popular framework for making web based applications using Python.It's generally considered a micro framework.
+We start building some dynamic web applications using a programming language called Python in order to build web applications that are a little more powerful.
 
-we start building some dynamic web applications using a programming language called Python in order to build web applications that are a little more powerful than what we can have just by describing the contents of a web page using HTML, for instance.
+# Concepts
+* [Explanation of HTTP and Flask in this course](https://youtu.be/j5wysXqaIV8?t=2358)
+* [Intro of Flask, Werkzeug, WSGI and Jinga2](https://www.tutorialspoint.com/flask/flask_overview.htm)
 
 
-# Example 1: [hello.py](https://jeffrey1183.github.io/coding-notes/My%20Practice/Flask/hello.py)
+# Example 1: hello.py
 * [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=106)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/hello.py)
 
@@ -12,7 +14,7 @@ we start building some dynamic web applications using a programming language cal
 * How to run a Python file.
 
 
-# Example 2: [name.py](https://jeffrey1183.github.io/coding-notes/My%20Practice/Flask/name.py)
+# Example 2: name.py
 * [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=208)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/name.py)
 
@@ -21,251 +23,260 @@ we start building some dynamic web applications using a programming language cal
 * Choose the Python version in Mac by [pyenv](https://github.com/pyenv/pyenv#choosing-the-python-version). Rememer to load pyenv automatically by appending `eval "$(pyenv init -)"` and set up the environment by `pyenv local 3.6.0` and run your python file. Depending on your requirements, you will have different setup. This is a great [Chinese guideline](https://www.jianshu.com/p/0fa2c7045de8) to referrence. 
  
 
-# Example 3: [variables.py](https://jeffrey1183.github.io/coding-notes/My%20Practice/Flask/variables.py)
+# Example 3: variables.py
 * [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=429)
 * [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/variables.py)
 
 
 ## I've Learned:
-* Look at the different types of information that we can store inside of a Python variable.
+* Python can store integers, floating point values, boolean values and none type as variables.
+* A none type is just a way in Python to represent the idea that a variable has no value.
+* I never told my program that i is going to be an integer, or f is going to be a floating point number. Python figures this out for itself. And so if you're familiar with other languages like C or Java, where you're used to having to explicitly write out the name of the type for any particular variable. Python doesn't require you to do that.
+
+# Example 4: conditions.py
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=612)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/conditions.py)
 
 
-
-* python 不用設定變數型態
-* Note that I never told my program that i is going to be an integer, or f is going to be a floating point number, or b is going to be a Boolean value.
-* Python figures this out for itself.
-* When I say i equals 28, Python knows that if I'm assigning the number 28 to i, then i must be in integer value. And so if you're familiar with other languages like C or Java, where you're used to having to explicitly write out the name of the type for any particular variable, know that Python doesn't require you to do that, and just lets you take a variable and assign it to any given value without needing to specify explicitly what the type of that value actually is.
+## I've Learned:
+* Check a number whether is a positive or negative number by `IF...ELIF...ELSE` statement. And print the result out.
+* In Python, indentation is necessary. This is how you tell the Python interpreter this is the code that is contained inside of this if statement. This is the code that should run if this if statement is true.
 
 
-#### 安裝 Anaconda 後
+# Example 5: sequences.py
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=772)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/sequences.py)
 
-安裝後，電腦會預設使用的默認的 Python 是 Anaconda 附帶的 Python。
 
-建立 python 36 的環境
+## I've Learned:
+* Python is very good at also supporting storing sequences of data where we have multiple values that are combined together under one name.
+* String is a sequence of characters.
+* Python tuple is a way of grouping a couple of values together in a single name.
+* Python list is a data type that lets us store a bunch of different values all together in one. And so a list in Python is denoted by the square brackets. And each of the elements in the list are separated by commas.
+* [Python has a sort of a live interpreter that lets me type code and see the result of it happening in real time.](https://youtu.be/j5wysXqaIV8?t=924) Use exit() or Ctrl-D to exit. 
 
-```text
-JunyuandeMacBook-Air:~ junyuanwang$ conda create --name python36 python=3.6
-Fetching package metadata .......
-Solving package specifications: ..........
 
-Package plan for installation in environment //anaconda/envs/python36:
+# Example 6: loops0.py
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=1129)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/loops0.py)
 
-The following packages will be downloaded:
 
-    package                    |            build
-    ---------------------------|-----------------
-    xz-5.2.3                   |                0         225 KB
-    zlib-1.2.11                |                0          98 KB
-    python-3.6.2               |                0        11.7 MB
-    certifi-2016.2.28          |           py36_0         213 KB
-    wheel-0.29.0               |           py36_0          87 KB
-    setuptools-36.4.0          |           py36_1         559 KB
-    pip-9.0.1                  |           py36_1         1.7 MB
-    ------------------------------------------------------------
-                                           Total:        14.6 MB
+## I've Learned:
+* To loop through a set of code a specified number of times, we can use the [range() function](https://www.w3schools.com/python/python_for_loops.asp).
 
-The following NEW packages will be INSTALLED:
 
-    certifi:    2016.2.28-py36_0
-    openssl:    1.0.2l-0
-    pip:        9.0.1-py36_1
-    python:     3.6.2-0
-    readline:   6.2-2
-    setuptools: 36.4.0-py36_1
-    sqlite:     3.13.0-0
-    tk:         8.5.18-0
-    wheel:      0.29.0-py36_0
-    xz:         5.2.3-0
-    zlib:       1.2.11-0
+# Example 7: loops1.py
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=1416)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/loops1.py)
+
+
+## I've Learned:
+* [A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).]((https://www.w3schools.com/python/python_for_loops.asp))
+* Sequences not need to be all the same data type. [But It's often good design to have elements of the list to be of the same type.](https://youtu.be/j5wysXqaIV8?t=1282)
+
+
+# Example 8: sets.py
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=1423)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/sets.py)
+
+
+## I've Learned:
+* A set is just a collection of items where no item shows up twice. And in particular, a set doesn't have any particular order to it.
+
+# Example 9: dictionaries.py
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=1500)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/dictionaries.py)
+
+
+## I've Learned:
+* A dictionary is a collection which is unordered, changeable and indexed. In Python dictionaries are written with curly brackets, and they have keys and values.
+* An example to store the ages of different people that I'm keeping track of.
+
+
+# Example 10: functions.py
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=1679)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/functions.py)
+
+
+## I've Learned:
+* [Perform a string formatting operation by using str.format()](https://realpython.com/python-f-strings/#option-2-strformat)
+* In general, Python needs to know about the existence of some name before you use it.
+
+# Example 11: modules.py
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=2158)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/modules.py)
+
+
+## I've Learned:
+* Import a function from a file. [Consider a module to be the same as a code library.](https://www.w3schools.com/python/python_modules.asp)
+* Nice thing about functions in Python is that once you write them once in one file, you can use them in other files as well. And so you can use Python functions that you've written yourself in other files, and you can also use functions that other people have written in their own files in your own files by referring to a function that exists in some other file.
+* Prevent to run all of code automatically by adding `if __name__ == "__main__":`
+
+
+# Example 11: classes.py
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=2159)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/classes.py)
+
+
+## I've Learned:
+* [Python classes are a way of defining entirely new types in Python.](https://www.w3schools.com/python/python_classes.asp)
+
+
+From the example 12, we start to use [Flask](https://www.tutorialspoint.com/flask/index.htm).
+
+Flask is a very popular framework for making web based applications using Python. It's generally considered a micro framework.
+
+# Example 12: application.py
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=2464)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/application.py)
+
+
+## I've Learned:
+* Importing flask, which is going to be a way of creating a flask web server from this flask module that exists somewhere else. The flask code is generally stored inside of a file called `application.py`.
+* What do the code do? [Here is the official explanation.](http://flask.pocoo.org/docs/1.0/quickstart/#a-minimal-application)
+* If you enter the command `flask run` and there is an `Error: Could not locate Flask application. You did not provide the FLASK\_APP environment variable.` 
+
+This is because flask relies on what's called an environment variable, a variable that's set inside of your terminal to know what file to be looking for as the source of the application. If you're running for the first time, you need a line like export flask underscore app equals application dot py. 
+
+ To run in development mode, set the `FLASK_ENV=development` environment variable.
+
 ```
-
-列出你的環境
-
-```text
-conda env list
-```
-
-Python 環境設定
-
-* [參考 1](https://foofish.net/anaconda-install.html)
-* [參考 2](https://www.zhihu.com/question/58033789)
-
-
-
-### Indentation
-
-The indentation in Python is actually required. Unlike several other programming languages where indentation is a style thing.
-
-it's not strictly necessary, in Python this indentation is necessary.
-
-[秘笈](https://www2.cs.arizona.edu/people/mccann/errors-python)
-
-Python is very good at also supporting storing sequences of data where we have multiple values that are combined together under one name.
-
-* sequence.py
-
-#### Python Interpretor
-
-Just type Python in the command line. You've opened up the Python interpreter. which is a place where I can line at a time type of line of Python code and immediately see the result.
-
-用 quit\(\) 離開
-
-#### Loops
-
-loops0.py
-
-loops1.py
-
-* the question is, do sequences need to be all of the same data type?
-* The short answer is no. it's a good idea if different things in the list are of the same type.
-* 我們沒辦法去記哪一個位置是什麼 data type，全部一樣會比較好處理
-
-sets.py
-
-dictionaries.py
-
-functions.py
-
-* define a new function, this is a slightly older way of plugging in values into Python strings.
-* [string format](https://www.programiz.com/python-programming/methods/string/format)
-* 自定義一個 function 為輸入數字的平方，要先定義過後才能使用
-
-modules.py
-
-* 如何引用 function，並且指定某個 function
-* 為了避免沒有要用的 function 也執行，在 functions.py 裡建立 main function
-
-classes.py
-
-* define a new class and create a object
-  * 參考資料：[https://www.w3schools.com/python/python\_classes.as](https://www.w3schools.com/python/python_classes.asp)p 包含什麼是 self
-
-### HTTP
-
-If I type google.com and press Return, I'm sending an HTTP request to Google's server. Google's server receives that request, needs to figure out some way to interpret that request.
-
-### Flask
-
-And so what we're going to be doing now as we go about building web applications, is writing code that will take care of that server side processing. Receiving requests, figuring out what those requests they're dealing with and what they're asking for, and figuring out what response to then give back to the user.
-
-And in order to do that, we're going to be using flask. Flask as a micro framework written in Python.
-
-What that effectively means is that flask is some code already written for us in Python that makes it easy to get up and running with a simple web application that has a lot of features that can be useful as we go about developing web applications, as we'll soon see in a moment.
-
-application.py
-
-* main file of application
-* command line 要輸入  `flask run`
-
-結果出現 Error: Could not locate Flask application. You did not provide the FLASK\_APP environment variable.
-
-這是因為 flask relies on what's called an environment variable, a variable that's set inside of your terminal to know what file to be looking for as the source of the application. If you're running for the first time, you need a line like export flask underscore app equals application dot py. And all that line is doing is saying set the environment variable flask app to be application dot py.
-
-```text
 export FLASK_APP=application.py
+export FLASK_ENV=development
 flask run
 ```
 
+And all that line is doing is saying set the environment variable flask app to be application dot py.
+
 In other words, tell flask that the file that I want to run this application from is a file called application do py, which is just the general convention.
 
-如果在跑 flask 時出現
+* If you get a warning of not found flask command, [remember to install pip.](https://code.visualstudio.com/docs/python/tutorial-flask#_create-a-project-environment-for-flask)
+* If you get a warning of production environment, please [change the environment variable](http://flask.pocoo.org/docs/1.0/config/#eenvironment-and-debug-features).
 
-WARNING: Do not use the development server in a production environment.
 
-可以參考：[https://stackoverflow.com/questions/50284753/warning-message-while-running-flask](https://stackoverflow.com/questions/50284753/warning-message-while-running-flask)
 
-不用理他
+## Adavanced Learning: 
+* [To select an specific environment in VS code, use the `Python: Select Interpreter` command from the Command Palette (⇧⌘P).](https://code.visualstudio.com/docs/python/environments)
+* [Changing the display language in VS code.](https://code.visualstudio.com/docs/getstarted/locales)
+* The display language of Python extension is determined by your system preference language.
+* [Lint or linter](https://en.wikipedia.org/wiki/Lint_(software)), is a tool that analyzes source code to flag programming errors.
+* [Run linter in VS code.](https://code.visualstudio.com/docs/python/linting#_run-linting) It is the solution when I met a E0401 error of Pylinter.
 
-How to import Python modules?
 
-* [https://www.w3schools.com/python/python\_modules.asp](https://www.w3schools.com/python/python_modules.asp)
+# Example 13: route0
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=2817)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/route0)
 
-如果只要輸入部分 module 就會用到 from
 
-設定不同的 route 回傳不同的文字
+## I've Learned:
+* Set up two separate routes running on my web application. Go to the default route, it says hello world. If I go to slash David, then it says hello David.
 
-* route0/application.py
+# Example 14: route1
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=2817)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/route0)
 
-route1/application.py
 
-* app route [官方教學](http://exploreflask.com/en/latest/views.html)
-* Say hello to anyone 在不同的 route 裡
-* 學習怎麼用 Formatted string literals，[第二個回答](https://stackoverflow.com/questions/2960772/how-do-i-put-a-variable-inside-a-string-in-python)
-* 要切到要執行的資料夾再跑 flask run
-* [capitalize method ](https://www.tutorialspoint.com/python/string_capitalize.htm)
-  * Capitalizes the first letter of it
+## I've Learned:
+* In the last case, when I type in a route that my applicaiton not deal with. It shows up the "Not Found" in my webpage. In this case, it's able to take any string that I type in.
+* [Adding variable sections to a URL by marking sections with `<variable_name>`.](http://flask.pocoo.org/docs/1.0/quickstart/#variable-rules)
+* Capitalizes the first letter through [captitalize method](https://www.tutorialspoint.com/python/string_capitalize.htm).
 
-#### Render HTML File
+# Example 15: templates
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=3147)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/templates)
 
-How to tie those html files into flask? Tell flask to use those html files that we've already created in order to return something back to the user.
 
-Let's import a function in flask called render\_template to solve it.
+## I've Learned:
+* Tell flask to use html files that we've already created, firstly importing a function in a flask called render template and creating a folder called "templates" which contains an index.html file.
+* [In exmaple 14, the hello() function will render ‘Hello {name}’ with <h1> tag attached to it. In this example, a HTML file can be rendered by the render_template() function. Flask will try to find the HTML file in the templates folder.](https://www.tutorialspoint.com/flask/flask_templates.htm)
 
-* [官方教學](http://flask.pocoo.org/docs/1.0/quickstart/#rendering-templates)
+# Example 16: variable0
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=3147)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/templates)
 
-templates folder
 
-* import template\_rener 和使用 render\_template
-* 另外寫一個 index.html 的檔案，讓 flask render
-* 要注意資料夾結構，在 templates 裡面再塞了一個 templates ，才放 index.html。application.py 另外放。
-  * 這跟 how does flask find index.html, Where does it know to look?
-  * Flask is only going to look immediately inside of a subdirectory called templates. 所以我們的資料夾才要這樣放。
+## I've Learned:
+* I have a variable called headline inside the html file. [The headline variable is an argument of render_template function.](http://flask.pocoo.org/docs/1.0/api/#flask.render_template) I can change variable in the application.py. The html file is dynamically rendered by flask, depending upon what I pass into it as variables.
+* The syntax of double-curly braces is the templating language called jinja2 that flask uses in its html templates. In order to make it easy to dynamically generate web pages. When you install flask, Jinja2 come along with it.
+* [The double-curly braces are Jinja2's way of saying substitute something here.](http://jinja.pocoo.org/docs/2.10/templates/#variables)
+* I add a new function called Goodbye. The headline is "Goodbye!". In this case, I've used the same index.html template. The only difference is I've changed what value I pass in the headline.
 
-variable0
+# Example 17: condition
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=3858)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/conditions)
 
-* The text in HTML is dynamically generated, rendered by flask, depending upon what I pass into it as variables
-* [如果資料夾的架構有問題](https://stackoverflow.com/questions/15053790/jinja2-exceptions-templatenotfound-error)
-* what is this double curly brace index? In fact, it's entirely different, what's called a templating language, an entirely separate language called Jinja1, which is a standalone language. But it's a language that flask uses in its html templates in order to make it easy to dynamically generate web pages. And so we'll see a couple of examples of this Jinja2 syntax.
-* 當 route 是 bye 的時候，畫面顯示指定的文案
-* Does this Python file come as back end? Yes, What I've written here is Python code for a back end web server, that is listening for a request like, me typing in URL slash bye. It processes that request and returns some response, in this case the HTML. So yes, this back end Python code as you would term it.
 
-codition.py
+## I've Learned:
+* Write a website like [isitchristmas.com](https://isitchristmas.com/), writing a isitnewyear's.com to check whether today is New Year.
+* Python has a bunch of different modules. In this case, [the datetime module has a very easy way to get the current date.](https://docs.python.org/3/library/datetime.html#datetime.datetime.now)
+* We were able to conditionally determine what to display on the HTML page by the boolean value of `new_year` through the [if statement in HTML file](http://jinja.pocoo.org/docs/2.10/templates/#if).
+* [Why do I put the if else inside the index.html instead of of inside of the Python code?](https://youtu.be/j5wysXqaIV8?t=4155)
 
-* import python module datetime to get the current date.
-* [import 的語法](https://medium.com/pyladies-taiwan/python-的-import-陷阱-3538e74f57e3)，包含為何要寫
-* [jinja 2 syntax](http://jinja.pocoo.org/docs/2.10/templates/#list-of-control-structures)
 
-  ```python
-  now = datetime.datetime.now()
-  ```
+# Example 18: loops
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=4314)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/loops)
 
-* Question: So why did I put the if else inside the index.html instead of inside of the Python code?
-  * I certainly could have put it inside the Python code. But as we start to deal with more complicated websites where I might want entire sections of HTML to appear depending upon the value of some variable, the conditioning inside of the template will become very, very helpful.
-* Question: Do you need to install Jinja2 in order to make any of this work?
-  * What you will need to do is you'll need to install flask, which is the micro framework that we've been using in order to generate these web applications. And when you install flask, Jinja2 come along with it.
 
-Loops.py
+## I've Learned:
+* Loop over each item in a sequence using [for loop](http://jinja.pocoo.org/docs/2.10/templates/#for).
 
-* 練習使用 jinja for loop 的語法：[http://jinja.pocoo.org/docs/2.10/templates/\#for](http://jinja.pocoo.org/docs/2.10/templates/#for)
-* 不用寫死資料，it's going to dynamically generate the list items as I need them.
+# Example 19: urls
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=4466)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/urls)
 
-Let's try and use Python to begin to add some new features to this website
 
-urls 資料夾
+## I've Learned:
+* [To build a URL to a specific function, use the url_for() function.](http://flask.pocoo.org/docs/1.0/quickstart/#url-building).
 
-* One thing that might immediately be helpful is figuring out how you link to different parts of your web application. You might have one route that links to another route and that route needs to link back to the original route.
-* 實作功能：Link to another route，設定 index 和 more 頁面裡的連結可以讓兩個頁面連來連去
-* 兩個頁面都要放在 templates 的資料夾裡
 
-inheritance
+# Example 20: inheritance
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=4668)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/inheritance)
 
-* instead of writing the same code twice, I can just write the basic template from my web site once and fill in the blanks with whatever additional details that I have.
-* templates 裡有 3 個 html 檔案，index.html, more.html 和新增加的 layout.html
-* 先設定 layout 檔案，讓 index.html 沿用
-* index.html 與 urls 的 index.html 內容相同，但用新的寫法
-* 如果我在 layout.html 加了一行，index.html 和 more.html 都會變動
-* 官方參考資料：[http://jinja.pocoo.org/docs/2.10/templates/\#template-inheritance](http://jinja.pocoo.org/docs/2.10/templates/#template-inheritance)
 
-form
+## I've Learned:
+* The most powerful part of Jinja is [template inheritance](http://flask.pocoo.org/docs/1.0/patterns/templateinheritance/). Template inheritance allows you to build a base “skeleton” template that contains all the common elements of your site and defines blocks that child templates can override.
 
-* Now that we have a back end server, a Python flask server that's running and listening to requests, we can begin to take the results of those forms and do something interesting with them.
-* get and post methods
-* 首頁讓用戶輸入他的名字，接著讓名字顯示在頁面上
-* 如果出現 jinja2.exceptions.UndefinedError: 'layout' is undefined  
-表示我的 `extends "layout.html"`忘記加雙引號
+# Example 21: forms
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=4980)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/forms)
 
-notes
 
-* 把用戶輸入的資料，每一筆都呈現在頁面上
-* session keeps variables and values that are specific
-* 未實作
+## I've Learned:
+* Get the user's name from the form and save it a variable called name.
+* The request object is a Request subclass and provides the attributes including the [form attribute](http://flask.pocoo.org/docs/1.0/api/#flask.Request.form) which is a [MultiDict instances](http://werkzeug.pocoo.org/docs/0.14/datastructures/#werkzeug.datastructures.MultiDict). I can access value through the
+[get method](https://docs.python.org/3/library/stdtypes.html#dict.get) that is available for all Python dictionaries. Here is [an explanation](https://stackoverflow.com/questions/10434599/how-to-get-data-received-in-flask-request) in the Stack Overflow. 
+
+https://docs.python.org/3/library/stdtypes.html#dict.get
+
+# Example 22: [notes](https://jeffrey1183.github.io/coding-notes/My%20Practice/Flask/templates/index.html)
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=5631)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/notes)
+
+
+## I've Learned:
+* [The syntax of setting up the basic configuration values.](http://flask.pocoo.org/docs/1.0/config/#configuration-basics) and [how to initialize Session instance with a very specific Flask application](https://pythonhosted.org/Flask-Session/#api).
+* [The cofiguration values of session.](https://pythonhosted.org/Flask-Session/#configuration). Basically it is necessary to configure `SESSION_TYPE`. About the `SESSION_PERMANENT` value, default to be `True`.
+* The request object has the [method attribute](http://flask.pocoo.org/docs/1.0/api/#flask.Request.method) to judge the post or get method.
+* [Python list append() method](https://www.w3schools.com/python/ref_list_append.asp)
+* When I refresh this page, now my notes are gone because the server was shut down. In the SQL lecture, we will learn how to store the data user submitting.
+* The variable of "notes" is a global variable in this case, accessing by entire application. I want to be able to take my own notes without seeing someone else's notes. that's where the concept of sessions begins to come in next example.
+
+# Example 23: session
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=5961)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/session)
+
+
+## I've Learned:
+* Ｗhen you log in to the web site, you have access to some [session](https://www.tutorialspoint.com/flask/flask_sessions.htm) that is data specific to your user account. I want to be able to take my own notes without seeing someone else's notes.
+* Setting up my particular session to have an empty list of notes firstly. Instead of `notes.append(note)`, the code changes into `session[notes].append (note)`. Rather than append this new note to the entire global variable representing all of the notes, I only want to append the note to the notes specific to my particular session, to my interaction with this page. If I close the browser now and then go back to it, I get to keep my notes. Because it's still stored inside of the session.
+* [The null keyword is commonly used in many programming languages, such as Java, C++, C# and Javascript. The equivalent of the null keyword in Python is None.](https://www.pythoncentral.io/python-null-equivalent-none/) Using the `is` keyword to check if two variables are exactly is a better way in Python.
+* Unlike a Cookie, Session data is stored on server. Session is the time interval when a client logs into a server and logs out of it. Session object is a [dictionary object](https://www.w3schools.com/python/python_dictionaries.asp) containing key-value pairs of session variables and associated values.
+
+## Adavanced Learning: 
+Error Title: jinja2.exceptions.TemplateSyntaxError
+Error Description: jinja2.exceptions.TemplateSyntaxError: expected token 'end of print statement', got 'note'
+* [The reason is my for loop syntax is wrong.](http://jinja.pocoo.org/docs/2.10/templates/#synopsis) I written with double curly brackets.
+
+

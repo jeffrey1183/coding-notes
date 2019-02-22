@@ -9,5 +9,4 @@ def index():
 @app.route("/<string:name>")
 def hello(name):
     name = name.capitalize()
-    return f"<h1>Hello, {name}</h1>!"
-    # I'm going to return this formatted string hello comma
+    return f"<h1>Hello, {name}!</h1>"

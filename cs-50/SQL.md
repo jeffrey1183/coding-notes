@@ -1,6 +1,3 @@
-# [SQL](https://youtu.be/Eda-NmcE5mQ)
-
-
 Trying to find some way to use databases to make it easier for our web applications to store and manipulate and use data ultimately.
 
 And the types of databases that we're going to be talking about today, are relational databases. Which you can think of as effectively storing data inside of a table.
@@ -11,8 +8,16 @@ Interact with tables of data that have rows and columns, for instance.
 
 
 
-## Example 1: [create.sql](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/SQL/create.sql)
+# Example 1: [create.sql](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/SQL/create.sql)
+* [Youtube tutorial](https://youtu.be/j5wysXqaIV8?t=5631)
+* [My source code](https://github.com/jeffrey1183/coding-notes/blob/master/My%20Practice/Flask/notes)
+
+## I've Learned:
+* 
+
+
 * Download the [Postgres app](https://github.com/PostgresApp/PostgresApp/releases/)
+* [PostgreSQL 11.1 Documentation](https://www.postgresql.org/docs/11/index.html)
 * Take flight as example, create a [table](https://www.tutorialspoint.com/postgresql/postgresql_create_table.htm) and display the table you create.
 * [What is NULL and NOT NULL](https://www.tutorialspoint.com/postgresql/postgresql_null_values.htm)
  * Learn how to list down all the records of "NULL" or "NOT NULL"
@@ -53,6 +58,9 @@ Interact with tables of data that have rows and columns, for instance.
 * Count how many flights have particular origin.
 * Select the popular places from which people are flying by [HAVING clause](https://www.tutorialspoint.com/postgresql/postgresql_having_clause.htm)
 
+https://www.postgresql.org/docs/8.4/sql-select.html#SQL-LIMIT
+
+LIMIT and OFFSET(https://www.postgresql.org/docs/11/queries-limit.html)
 
 #Foreign Keys
 A foreign key is going to be a method that we're going to use in order to connect multiple tables together. SQL is often called a relational database. And it's called a relational database because one thing that makes it quite powerful is the ability to take multiple different tables and relate them together in some way.
@@ -73,7 +81,10 @@ Adminer
 * Adminer is a third party database service that lets you interact with a database online.
 
 
+SQLAlchelmy(http://docs.jinkan.org/docs/flask/patterns/sqlalchemy.html)
+
 
 psql command
 * [安裝](https://medium.freecodecamp.org/how-to-get-started-with-postgresql-9d3bc1dd1b11)
 * [heroku](https://www.heroku.com/postgres)
+

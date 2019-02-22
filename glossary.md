@@ -1,7 +1,9 @@
-# Glossary
+* [shell]([shell](https://zh.wikipedia.org/wiki/%E6%AE%BC%E5%B1%A4))
 
-pound sign
-* 井字號
+# Symbols
+* pound sign, 井字號
+* single quote,
+* double quote
 
 [res \(Revision Control System\)](https://en.wikipedia.org/wiki/Revision_Control_System)
 

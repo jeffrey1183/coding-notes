@@ -11,3 +11,5 @@ def index():
 def bye():
     headline = "Goodbye"
     return render_template("index.html", headline=headline)
+
+# This is a backend code.

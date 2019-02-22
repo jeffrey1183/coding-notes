@@ -6,19 +6,7 @@ First Page
 
 {% block body %}
   <form action="{{url_for('hello')}}" method="post">
-
-<!--if I go to google.com and press Return, I am making a GET request. I'm asking to get information from a web page.
-    But this time for our form when we're submitting data to the server, oftentimes that will use a slightly different request method called post.
-    And so here we're saying when I submit data to hello, use the request method post to mean I want to submit data as a form to the web server.-->
-
-
-<!--HTML <form> action Attribute: https://www.w3schools.com/tags/att_form_action.asp
-    HTML <form> method Attribute: https://www.w3schools.com/tags/att_form_method.asp-->
     <input type="text" name="name" placeholder="Enter Your Name">
     <button>submit</button>
-<!--Input type attribute: https://www.w3schools.com/tags/att_input_type.asp-->
-<!--Input name attribute: https://www.w3schools.com/tags/att_input_name.asp-->
-
-
   </form>
 {% endblock %}
