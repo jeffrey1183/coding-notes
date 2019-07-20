@@ -1,3 +1,22 @@
+Learn to choose my computer
+Share monitor: https://smallbusiness.chron.com/use-laptop-monitor-mac-mini-51682.html
+連接方式2：https://discussions.apple.com/thread/8150180
+Wiki 介紹：https://zh.wikipedia.org/wiki/Mac_mini
+良興：https://www.eclife.com.tw/tv_mp3/1212050002/1402140001/1402140001/
+Apple Mini DisplayPort：https://support.apple.com/zh-tw/HT204149
+外接的方式：https://support.apple.com/zh-tw/HT204592#requirements
+規格：https://support.apple.com/kb/SP782?viewlocale=zh_HK&locale=zh_HK
+跑分：https://www.cpubenchmark.net/compare/Intel-Core-i7-8700B-vs-Intel-Core-i5-8500B/3388vs3382
+Mac mini 的定位：https://applealmond.com/posts/43671
+
+Macbook air 是 Thunderbolt 2，Type C 是 Thunderbolt 3
+Macbook air 怎麼轉 Type C：https://tklab.club/apple-thunderbolt-3-usb-c-%E5%B0%8D-thunderbolt-2-%E8%BD%89%E6%8E%A5%E5%99%A8-%E9%96%8B%E7%AE%B1%E6%96%87/
+
+各種接口：https://support.apple.com/zh-tw/HT201736
+把 iMac 當顯示器：https://support.apple.com/zh-tw/HT204592#enter
+
+Mini Display Port 轉接線不等於 Thunderbolt 轉接線：https://hiraku.tw/2016/07/4357/
+
 # intro-to-computer
 
 中文課程名稱：計算機概論  

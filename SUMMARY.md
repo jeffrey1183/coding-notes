@@ -7,6 +7,8 @@
   * [JavaScript](cs-50/JavaScript.md)
   * [Flask](cs-50/Flask.md)
   * [SQL](cs-50/SQL.md)
+* iOS
+  * [Swift for Beginners](iOS/Swift_for_Beginners.md)
 * [C++ Notes](Cplusplus/Cplusplus.md)
 * [Glossary](glossary.md)
 

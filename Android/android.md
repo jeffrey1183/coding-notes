@@ -1,4 +1,15 @@
-# android
+Kotlin Document
+* [English version](https://kotlinlang.org/docs/reference/)
+* [Chinese version](https://www.kotlincn.net/docs/reference/android-overview.html)
+
+
+[What is the difference between `var` and `val` in Kotlin?](https://stackoverflow.com/questions/44200075/val-and-var-in-kotlin)
+var is like general variable and its known as a mutable variable in kotlin and can be assigned multiple times.
+
+val is like constant variable and its known as immutable in kotlin and can be initialized only single time.
+
+
+
 
 Android 錄音 App 實作，很讚的文章，但問題是看不懂 Java 語法：[https://medium.com/@ssaurel/create-an-audio-recorder-for-android-94dc7874f3d](https://medium.com/@ssaurel/create-an-audio-recorder-for-android-94dc7874f3d)
 

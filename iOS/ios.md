@@ -1,25 +1,3 @@
-# ios
-
-## 專案目標
-
-Build An App called Pitch Perfect that lets you record your voice and play it back with sound and effects.
-
-需要一些基礎 IF statements loops and classes in Swift. We'll build on that foundation to show you how to write your first app.
-
-### 會學到什麼
-
-* Xcode\(從 Watch, Apple TV to iOS 到 Mac\)
-* Audio Layouts and Buttons\(會刻一個畫面讓用戶錄音, set up the initial screen of the app for the user to record their own voice\)
-  * how to lay out the user interface \(刻UI\)
-  * how to connect UI elements such as our buttons to code
-  * audio effects 會放一個入口讓用戶 can apply audio effects
-* Delegation and Recording
-  * how to pass the recorded audio from the first screen to the second
-* Playback and Audio Effects
-  * add the functionality for adding various alterations to the pitch
-
-你將會得到：you'll be practicing fundamental iOS concepts that you can apply for any app that you build.
-
 ## 產品規劃
 
 錄音介面
@@ -46,51 +24,15 @@ Meeting transfer
 * [document outline ](https://www.youtube.com/watch?v=3YnJEwNr3ck) 現在好像沒有
 * [Xcode Shortcuts](https://classroom.udacity.com/courses/ud585/lessons/6994652511/concepts/9736c9fa-55ae-4c4b-b317-0ffcfcb80fae)
 
+[Take Videos and Screenshots of Simulator](https://stackoverflow.com/questions/25797990/capture-ios-simulator-video-for-app-preview)
+
+[Install and Run the developing app on your iPhone.](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E5%BE%9E-xcode-8-%E5%B0%87app%E5%AE%89%E8%A3%9D%E5%88%B0-iphone-%E7%9A%84%E5%B0%8F%E5%B0%8F2%E5%80%8B%E6%AD%A5%E9%A9%9F-39f7b81b69a6)
+
+[The Solution to "Could not locate device support files"](https://ighibli.github.io/2017/03/28/Could-not-locate-device-support-files/)
+
+[What does override mean in Swift?](https://www.hackingwithswift.com/example-code/language/what-does-override-mean)
 
 
-MVC
-
-* view, controller, model
-* view and model will tell the controller what they need
-* MVC is used for iOS and Mac apps
-
-
-
-開一個新專案
-
-* 在 Xcode 開一個專案，選擇 Single view application\(open up a new project wizard, And then select a Single View Application\)
-* Xcode 裡右上角的黃色箭頭可以做修復的動作
-* simulator 會預設出現 TV out，[可以把它關掉](https://stackoverflow.com/questions/29721782/xcode-disable-tv-out-window)
-* 可以從 window&gt;scale 去調整畫面大小
-
-
-
-
-
-Add user interface elements in iOS
-
-* build the first part of the Pitch Perfect app by adding and connecting buttons from an interface to code.
-* How to add a UIbutton and setting up the text and background color.
-* A system for positioning UI elements on screen called auto layout
-  * layout constraints are the rules you give auto layout so that it can do its work
-  * intrinsic size, that is they have a built in height and width.
-  * then it only needs one additional constraint on each axis. iOS can automatically calculate the spacing on the remaining sides. You need a minimum of two constraints on each axis to properly lay out a UI element.
-  * 至少知道要知道兩個方向的長度
-
-
-
-2種加上 constraint 的方式
-
-1. 用右下角的 align
-2. 按下 control 拖拉物件到你要的 view 後藉由 dialog 去點選 constraint
-
-I’m going to hold down the control key and click drag to the View. 
-
-What is the difference between an IBOutlet and an IBAction?
-
-IBActions trigger code to run, and IBOutlets let code affect the UI.
-
-![](../.gitbook/assets/ios_2.png)
 
 
 

@@ -1,0 +1,1 @@
+A book for freshmen, for actually teaching you from scratch, called "Programming Priciples And Practice In Using C++"
