@@ -3,7 +3,7 @@
     "files.associations": {
         "iostream": "cpp"
     },
-    "python.pythonPath": "/usr/local/bin/python",
+    "python.pythonPath": "/usr/local/bin/python3",
     "python.linting.enabled": false,
     "python.autoComplete.extraPaths": [
         "${env:SPARK_HOME}/python",
