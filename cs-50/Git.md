@@ -8,7 +8,7 @@ Watching this [video](https://www.youtube.com/watch?v=1u2qu-EmIRc) and doing it 
 * [Create a Github repository](https://youtu.be/1u2qu-EmIRc?t=700)
  * [git clone](https://youtu.be/1u2qu-EmIRc?t=748)and basic commands like cd, ls and touch. 
  * [git add](https://youtu.be/1u2qu-EmIRc?t=904)
-   * `git add *` is a convenient command to track all of files.
+   * `git add *` and `git add -A`is a convenient command to track all of files.
  * [git commit](https://youtu.be/1u2qu-EmIRc?t=971)
  * [git commit -am]
    * Add all of files that I've changed that I've already been tracking and commit them at the same time.  
