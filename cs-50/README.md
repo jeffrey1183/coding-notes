@@ -11,14 +11,14 @@ As a product manager, I always define the specification of websites and apps. In
 
 
 Catalog
+* [HTML and CSS](cs-50/HTML_CSS.md) 
 * [Git](cs-50/Git.md)
-* [HTML and CSS](cs-50/HTML_CSS.md)
-* Flask
-* SQL
+* [Python](cs-50/Python.md)
+* [Django](cs-50/Django.md)
+* [SQL, Models, and Migrations](cs-50/Django.md)
 * ORMs, APIs
 * JavaScript
 * Front Ends
-* Django
 * Test, CI/CD
 * Github, Travis CI
 * Scalability

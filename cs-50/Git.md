@@ -19,6 +19,8 @@ Watching this [video](https://www.youtube.com/watch?v=1u2qu-EmIRc) and doing it 
  * [git log](https://youtu.be/1u2qu-EmIRc?t=1653)
  * [git reset](https://youtu.be/1u2qu-EmIRc?t=1673)
  * [git reflog](https://youtu.be/1u2qu-EmIRc?t=1857)
+ * [git rebase](https://gitbook.tw/chapters/branch/merge-with-rebase.html)
+  * `git reset ORIG_HEAD`, a command back to last HEAD
 
 # Git Flow - Collaborate with other egineers
 Start to know the workflow when you cowork withr other engineers

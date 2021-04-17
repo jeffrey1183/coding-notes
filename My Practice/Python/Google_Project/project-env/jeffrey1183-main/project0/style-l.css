@@ -1,0 +1,23 @@
+img {
+    display: block;
+    margin: auto;
+}
+
+form, input{
+    display: block;
+    margin: auto;
+    border-radius: 25px;
+}
+
+a {
+    display: block;
+    text-align: right;
+    top: 8px;
+    right: 16px;
+}
+
+.submit{
+    color: #fff;
+    background-color: #4d90fe;
+
+}
